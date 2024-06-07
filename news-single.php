@@ -740,20 +740,7 @@
     </div>
 
     <!-- jquery include -->
-    <script src="assets/js/jquery-3.5.1.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/slick.js"></script>
-    <script src="assets/js/backToTop.js"></script>
-    <script src="assets/js/uikit.min.js"></script>
-    <script src="assets/js/resize-sensor.min.js"></script>
-    <script src="assets/js/theia-sticky-sidebar.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/jqueryui.js"></script>
-    <script src="assets/js/touchspin.js"></script>
-    <script src="assets/js/countdown.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/metisMenu.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <?php include("scripts.php") ?>
 </body>
 
 </html>
