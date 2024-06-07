@@ -25,7 +25,7 @@
         <!-- back to top end -->
 
         <!-- header start -->
-        <?php include("navbar_header.php") ?>
+        <?php include("navbar-header.php") ?>
         <!-- header end -->
 
         <!-- slide-bar start -->
@@ -238,7 +238,7 @@
         <!-- footer end -->
 
         <!-- start newsletter-popup-area-section -->
-        <?php include("newsletter_popup.php"); ?>
+        <?php include("newsletter-popup.php"); ?>
         <!-- end newsletter-popup-area-section -->
 
 
