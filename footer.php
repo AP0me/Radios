@@ -18,7 +18,7 @@
       <div class="row mt-none-40">
         <div class="footer__widget col-lg-3 col-md-6 mt-40">
           <div class="footer__logo mb-20">
-            <a href="index.php"><img src="assets/img/logo/logo.svg" alt=""></a>
+            <a href="index.php"><img src="assets/img/logo/OmeY-removebg-preview.png" alt=""></a>
           </div>
           <p>4517 Washington Ave. Manchester, Kentucky 39495 ashington Ave. Manchester,</p>
           <ul class="footer__info mt-30">

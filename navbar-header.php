@@ -27,7 +27,7 @@
     <div class="header__middle ul_li_between justify-content-xs-center">
       <div class="header__logo">
         <a href="index.php">
-          <img src="assets/img/logo/logo.svg" alt="">
+          <img src="assets/img/logo/OmeY-removebg-preview.png" alt="">
         </a>
       </div>
       <form class="header__search-box" action="#">

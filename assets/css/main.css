@@ -32,7 +32,7 @@
 :root {
   --font: 'Inter', sans-serif;
   --font-dosis: 'Dosis', sans-serif;
-  --color-primary: #FF8717;
+  --color-primary: #2E00FF;
   --color-primary-2: #02D8F5;
   --color-primary-3: #50AD06;
   --color-orange: #FF6A00;
@@ -2731,13 +2731,13 @@ h6 {
       font-size: 16px;
       color: var(--color-white); }
   .header__cat-wrap {
-    background-color: #11100D;
+    background-color: #40a3ff;
     padding: 17px 0; }
     @media (max-width: 767px) {
       .header__cat-wrap {
         padding: 12px 0; } }
   .header__cat-wrap.uk-active {
-    background-color: #11100D;
+    background-color: #40a3ff;
     padding: 15px 0; }
   .header__cat .hamburger_menu {
     margin-right: 33px; }
@@ -5406,7 +5406,7 @@ h6 {
         font-size: 16px; } }
     .product__nav .nav-item .nav-link.active {
       background-color: var(--color-primary);
-      color: #121416; }
+      color: var(--color-white); }
   .product__nav.style-2 .nav-item:not(:last-child) {
     margin-right: 30px; }
     @media (max-width: 1199px) {
