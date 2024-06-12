@@ -51,7 +51,7 @@
                                         <h4 class="price">$ 180.99</h4>
                                     </div>
                                     <div class="banner__btn mt-30">
-                                        <a class="thm-btn thm-btn__black" href="shop.php">
+                                        <a class="thm-btn thm-btn__black" href="#!">
                                             <span class="btn-wrap"> 
                                                 <span>Shop Now</span>
                                                 <span>Shop Now</span>
@@ -76,7 +76,7 @@
                                     <span class="upto">Up <br> To</span>
                                     <span class="offer-no">70 <span>%</span></span>
                                 </div>
-                                <a class="thm-btn thm-btn__transparent" href="shop.php">
+                                <a class="thm-btn thm-btn__transparent" href="#!">
                                     <span class="btn-wrap"> 
                                         <span>Shop Now</span>
                                         <span>Shop Now</span>
@@ -112,7 +112,7 @@
                                         <span class="upto">Up <br> To</span>
                                         <span class="offer-no">70 <span>%</span></span>
                                     </div>
-                                    <a href="shop.php">Shop Now <i class="fas fa-chevron-circle-right"></i></a>
+                                    <a href="#!">Shop Now <i class="fas fa-chevron-circle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +127,7 @@
                                         <span class="upto">Up <br> To</span>
                                         <span class="offer-no">70 <span>%</span></span>
                                     </div>
-                                    <a href="shop.php">Shop Now <i class="fas fa-chevron-circle-right"></i></a>
+                                    <a href="#!">Shop Now <i class="fas fa-chevron-circle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                                         <span class="upto">Up <br> To</span>
                                         <span class="offer-no">70 <span>%</span></span>
                                     </div>
-                                    <a href="shop.php">Shop Now <i class="fas fa-chevron-circle-right"></i></a>
+                                    <a href="#!">Shop Now <i class="fas fa-chevron-circle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                                         <span class="upto">Up <br> To</span>
                                         <span class="offer-no">70 <span>%</span></span>
                                     </div>
-                                    <a href="shop.php">Shop Now <i class="fas fa-chevron-circle-right"></i></a>
+                                    <a href="#!">Shop Now <i class="fas fa-chevron-circle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -179,7 +179,7 @@
                                         <span class="upto">Up <br> To</span>
                                         <span class="offer-no">70 <span>%</span></span>
                                     </div>
-                                    <a class="thm-btn thm-btn__transparent" href="shop.php">
+                                    <a class="thm-btn thm-btn__transparent" href="#!">
                                         <span class="btn-wrap"> 
                                             <span>Shop Now</span>
                                             <span>Shop Now</span>
@@ -224,7 +224,7 @@
                                             <div class="rd-tab-product__slide">
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_64.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_64.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -242,14 +242,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg2 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_65.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_65.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -267,14 +267,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
+                                                        <h3 class="title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -292,14 +292,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg4 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_67.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_67.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -317,14 +317,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
+                                                        <h3 class="title"><a href="#!">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg5 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_68.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_68.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -342,14 +342,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
+                                                        <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -367,7 +367,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Portable External Hard Drive Portable HDD USB</a></h3>
+                                                        <h3 class="title"><a href="#!">Portable External Hard Drive Portable HDD USB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
@@ -378,7 +378,7 @@
                                             <div class="rd-tab-product__slide">
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_64.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_64.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -396,14 +396,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg2 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_65.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_65.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -421,14 +421,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
+                                                        <h3 class="title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -446,14 +446,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg4 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_67.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_67.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -471,14 +471,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
+                                                        <h3 class="title"><a href="#!">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg5 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_68.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_68.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -496,14 +496,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
+                                                        <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -521,7 +521,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Portable External Hard Drive Portable HDD USB</a></h3>
+                                                        <h3 class="title"><a href="#!">Portable External Hard Drive Portable HDD USB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
@@ -532,7 +532,7 @@
                                             <div class="rd-tab-product__slide">
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_64.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_64.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -550,14 +550,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg2 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_65.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_65.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -575,14 +575,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
+                                                        <h3 class="title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -600,14 +600,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg4 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_67.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_67.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -625,14 +625,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
+                                                        <h3 class="title"><a href="#!">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg5 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_68.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_68.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -650,14 +650,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
+                                                        <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -675,7 +675,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Portable External Hard Drive Portable HDD USB</a></h3>
+                                                        <h3 class="title"><a href="#!">Portable External Hard Drive Portable HDD USB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
@@ -686,7 +686,7 @@
                                             <div class="rd-tab-product__slide">
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_64.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_64.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -704,14 +704,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg2 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_65.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_65.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -729,14 +729,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
+                                                        <h3 class="title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -754,14 +754,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg4 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_67.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_67.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -779,14 +779,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
+                                                        <h3 class="title"><a href="#!">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg5 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_68.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_68.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -804,14 +804,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
+                                                        <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -829,7 +829,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Portable External Hard Drive Portable HDD USB</a></h3>
+                                                        <h3 class="title"><a href="#!">Portable External Hard Drive Portable HDD USB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
@@ -840,7 +840,7 @@
                                             <div class="rd-tab-product__slide">
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_64.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_64.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -858,14 +858,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg2 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_65.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_65.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -883,14 +883,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
+                                                        <h3 class="title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -908,14 +908,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
+                                                        <h3 class="title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg4 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_67.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_67.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -933,14 +933,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
+                                                        <h3 class="title"><a href="#!">Sceptre 24″ Thin 75Hz 1080p LED Monitor</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item bg5 tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_68.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_68.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -958,14 +958,14 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
+                                                        <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
                                                 </div>
                                                 <div class="tab-product__item tx-product text-center">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -983,7 +983,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h3 class="title"><a href="shop-single.php">Portable External Hard Drive Portable HDD USB</a></h3>
+                                                        <h3 class="title"><a href="#!">Portable External Hard Drive Portable HDD USB</a></h3>
                                                         <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                                     </div>
                                                     <span class="badge-skew">New</span>
@@ -1010,55 +1010,55 @@
                                         <div class="tx-widget__product-single">
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_69.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_69.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Panasonic Cordless Phone System,</a></h3>
+                                                    <h3><a href="#!">Panasonic Cordless Phone System,</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_70.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_70.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Wide Angle</a></h3>
+                                                    <h3><a href="#!">Rokinon Xeen CF 16mm T2.6 Wide Angle</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_71.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_71.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                    <h3><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_72.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_72.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Basics 2 Slice, Extra-Wide Slot Toaster</a></h3>
+                                                    <h3><a href="#!">Basics 2 Slice, Extra-Wide Slot Toaster</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_73.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_73.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Galaxy Tab A7 Lite 8.7″ 32GB</a></h3>
+                                                    <h3><a href="#!">Galaxy Tab A7 Lite 8.7″ 32GB</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_73.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_73.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">USDA Choice Angus Beef Stew Meat</a></h3>
+                                                    <h3><a href="#!">USDA Choice Angus Beef Stew Meat</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
@@ -1066,55 +1066,55 @@
                                         <div class="tx-widget__product-single">
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_69.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_69.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Panasonic Cordless Phone System,</a></h3>
+                                                    <h3><a href="#!">Panasonic Cordless Phone System,</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_70.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_70.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Wide Angle</a></h3>
+                                                    <h3><a href="#!">Rokinon Xeen CF 16mm T2.6 Wide Angle</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_71.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_71.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                    <h3><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_72.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_72.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Basics 2 Slice, Extra-Wide Slot Toaster</a></h3>
+                                                    <h3><a href="#!">Basics 2 Slice, Extra-Wide Slot Toaster</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_73.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_73.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Galaxy Tab A7 Lite 8.7″ 32GB</a></h3>
+                                                    <h3><a href="#!">Galaxy Tab A7 Lite 8.7″ 32GB</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_73.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_73.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">USDA Choice Angus Beef Stew Meat</a></h3>
+                                                    <h3><a href="#!">USDA Choice Angus Beef Stew Meat</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
@@ -1152,7 +1152,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1173,7 +1173,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1182,7 +1182,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_75.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_75.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1203,7 +1203,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1212,7 +1212,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_76.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_76.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1233,7 +1233,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Home Security Camera, Baby Camera</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Home Security Camera, Baby Camera</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1242,7 +1242,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_77.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_77.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1263,7 +1263,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">ByronStatics Portable Radio AM FM, Vintage</a></h2>
+                                                            <h2 class="product__title"><a href="#!">ByronStatics Portable Radio AM FM, Vintage</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1272,7 +1272,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_78.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_78.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1293,7 +1293,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1306,7 +1306,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1327,7 +1327,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1336,7 +1336,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_75.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_75.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1357,7 +1357,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1366,7 +1366,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_76.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_76.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1387,7 +1387,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Home Security Camera, Baby Camera</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Home Security Camera, Baby Camera</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1396,7 +1396,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_77.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_77.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1417,7 +1417,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">ByronStatics Portable Radio AM FM, Vintage</a></h2>
+                                                            <h2 class="product__title"><a href="#!">ByronStatics Portable Radio AM FM, Vintage</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1426,7 +1426,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_78.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_78.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1447,7 +1447,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1460,7 +1460,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1481,7 +1481,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1490,7 +1490,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_75.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_75.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1511,7 +1511,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1520,7 +1520,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_76.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_76.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1541,7 +1541,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Home Security Camera, Baby Camera</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Home Security Camera, Baby Camera</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1550,7 +1550,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_77.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_77.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1571,7 +1571,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">ByronStatics Portable Radio AM FM, Vintage</a></h2>
+                                                            <h2 class="product__title"><a href="#!">ByronStatics Portable Radio AM FM, Vintage</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1580,7 +1580,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_78.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_78.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1601,7 +1601,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1614,7 +1614,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1635,7 +1635,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1644,7 +1644,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_75.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_75.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1665,7 +1665,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1674,7 +1674,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_76.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_76.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1695,7 +1695,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Home Security Camera, Baby Camera</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Home Security Camera, Baby Camera</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1704,7 +1704,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_77.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_77.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1725,7 +1725,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">ByronStatics Portable Radio AM FM, Vintage</a></h2>
+                                                            <h2 class="product__title"><a href="#!">ByronStatics Portable Radio AM FM, Vintage</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1734,7 +1734,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_78.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_78.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1755,7 +1755,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1768,7 +1768,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1789,7 +1789,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Amazon Basics 2 Slice, Extra-Wide Slot</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1798,7 +1798,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_75.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_75.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1819,7 +1819,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SMORFIT Smart Watch for Men/Women, Fitness</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1828,7 +1828,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_76.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_76.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1849,7 +1849,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Home Security Camera, Baby Camera</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Home Security Camera, Baby Camera</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1858,7 +1858,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_77.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_77.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1879,7 +1879,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">ByronStatics Portable Radio AM FM, Vintage</a></h2>
+                                                            <h2 class="product__title"><a href="#!">ByronStatics Portable Radio AM FM, Vintage</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1888,7 +1888,7 @@
                                                 <div class="col-1-of-5">
                                                     <div class="product__item style-2">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_78.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_78.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1909,7 +1909,7 @@
                                                             <div class="product__progress progress mt-2 color-primary">
                                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <span class="badge-skew">New</span>
                                                         </div>
@@ -1927,7 +1927,7 @@
                                                 <h2>Buy One. Get Free delivery</h2>
                                                 <h3>Starting  <span>560.99</span></h3>
                                                 <div class="banner__btn mt-10">
-                                                    <a href="shop.php">Shop Now</a>
+                                                    <a href="#!">Shop Now</a>
                                                 </div>
                                             </div>
                                             <div class="image">
@@ -1945,7 +1945,7 @@
                                                 <h2>Buy One. Get Free delivery</h2>
                                                 <h3>Starting  <span>560.99</span></h3>
                                                 <div class="banner__btn mt-10">
-                                                    <a href="shop.php">Shop Now</a>
+                                                    <a href="#!">Shop Now</a>
                                                 </div>
                                             </div>
                                             <div class="image">
@@ -1970,7 +1970,7 @@
                                     <div class="add-banner__content text-center">
                                         <span>Get Save 30% off</span>
                                         <h3 class="text-capitalize">general motors buick <br> sonic engine</h3>
-                                        <a class="thm-btn mt-40" href="shop.php">
+                                        <a class="thm-btn mt-40" href="#!">
                                             <span class="btn-wrap"> 
                                                 <span>Shop Now</span>
                                                 <span>Shop Now</span>
@@ -2128,7 +2128,7 @@
                         <div class="rd-product__slide-two">
                             <div class="tab-product__item tx-product text-center">
                                 <div class="thumb">
-                                    <a href="shop-single.php"><img src="assets/img/product/img_64.png" alt=""></a>
+                                    <a href="#!"><img src="assets/img/product/img_64.png" alt=""></a>
                                     <ul class="product__action style-2 ul_li">
                                         <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                         <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2146,14 +2146,14 @@
                                         </ul>
                                         <span>(126)</span>
                                     </div>
-                                    <h3 class="title"><a href="shop-single.php">Air Purifier for Home Allergies Pets Hair</a></h3>
+                                    <h3 class="title"><a href="#!">Air Purifier for Home Allergies Pets Hair</a></h3>
                                     <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                 </div>
                                 <span class="badge-skew">New</span>
                             </div>
                             <div class="tab-product__item tx-product text-center">
                                 <div class="thumb">
-                                    <a href="shop-single.php"><img src="assets/img/product/img_65.png" alt=""></a>
+                                    <a href="#!"><img src="assets/img/product/img_65.png" alt=""></a>
                                     <ul class="product__action style-2 ul_li">
                                         <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                         <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2171,14 +2171,14 @@
                                         </ul>
                                         <span>(126)</span>
                                     </div>
-                                    <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds</a></h3>
+                                    <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds</a></h3>
                                     <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                 </div>
                                 <span class="badge-skew">New</span>
                             </div>
                             <div class="tab-product__item tx-product text-center">
                                 <div class="thumb">
-                                    <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                    <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                     <ul class="product__action style-2 ul_li">
                                         <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                         <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2196,14 +2196,14 @@
                                         </ul>
                                         <span>(126)</span>
                                     </div>
-                                    <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
+                                    <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
                                     <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                 </div>
                                 <span class="badge-skew">New</span>
                             </div>
                             <div class="tab-product__item tx-product text-center">
                                 <div class="thumb">
-                                    <a href="shop-single.php"><img src="assets/img/product/img_67.png" alt=""></a>
+                                    <a href="#!"><img src="assets/img/product/img_67.png" alt=""></a>
                                     <ul class="product__action style-2 ul_li">
                                         <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                         <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2221,14 +2221,14 @@
                                         </ul>
                                         <span>(126)</span>
                                     </div>
-                                    <h3 class="title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable</a></h3>
+                                    <h3 class="title"><a href="#!">Portable 2TB External Hard Drive Portable</a></h3>
                                     <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                 </div>
                                 <span class="badge-skew">New</span>
                             </div>
                             <div class="tab-product__item tx-product text-center">
                                 <div class="thumb">
-                                    <a href="shop-single.php"><img src="assets/img/product/img_68.png" alt=""></a>
+                                    <a href="#!"><img src="assets/img/product/img_68.png" alt=""></a>
                                     <ul class="product__action style-2 ul_li">
                                         <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                         <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2246,14 +2246,14 @@
                                         </ul>
                                         <span>(126)</span>
                                     </div>
-                                    <h3 class="title"><a href="shop-single.php">Amazon Basics 2 Slice, Extra-Wide Slot</a></h3>
+                                    <h3 class="title"><a href="#!">Amazon Basics 2 Slice, Extra-Wide Slot</a></h3>
                                     <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                 </div>
                                 <span class="badge-skew">New</span>
                             </div>
                             <div class="tab-product__item tx-product text-center">
                                 <div class="thumb">
-                                    <a href="shop-single.php"><img src="assets/img/product/img_66.png" alt=""></a>
+                                    <a href="#!"><img src="assets/img/product/img_66.png" alt=""></a>
                                     <ul class="product__action style-2 ul_li">
                                         <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                         <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2271,14 +2271,14 @@
                                         </ul>
                                         <span>(126)</span>
                                     </div>
-                                    <h3 class="title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
+                                    <h3 class="title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h3>
                                     <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                 </div>
                                 <span class="badge-skew">New</span>
                             </div>
                             <div class="tab-product__item tx-product text-center">
                                 <div class="thumb">
-                                    <a href="shop-single.php"><img src="assets/img/product/img_67.png" alt=""></a>
+                                    <a href="#!"><img src="assets/img/product/img_67.png" alt=""></a>
                                     <ul class="product__action style-2 ul_li">
                                         <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                         <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2296,7 +2296,7 @@
                                         </ul>
                                         <span>(126)</span>
                                     </div>
-                                    <h3 class="title"><a href="shop-single.php">Basics 2 Slice, Extra-Wide Slot Toaster</a></h3>
+                                    <h3 class="title"><a href="#!">Basics 2 Slice, Extra-Wide Slot Toaster</a></h3>
                                     <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                 </div>
                                 <span class="badge-skew">New</span>
@@ -2377,7 +2377,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2395,7 +2395,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2405,7 +2405,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_93.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_93.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2423,7 +2423,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
+                                                            <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>                 
                                                         <span class="badge-skew">New</span>
@@ -2432,7 +2432,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_94.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_94.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2450,7 +2450,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
+                                                            <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2460,7 +2460,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_95.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_95.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2478,7 +2478,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2488,7 +2488,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_96.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_96.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2506,7 +2506,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                            <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2516,7 +2516,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_97.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_97.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2534,7 +2534,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Panasonic Cordless Phone System, Expandable</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2544,7 +2544,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_98.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_98.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2562,7 +2562,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2572,7 +2572,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_99.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_99.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2590,7 +2590,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2600,7 +2600,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_100.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_100.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2618,7 +2618,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2628,7 +2628,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_101.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_101.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2646,7 +2646,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2660,7 +2660,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2678,7 +2678,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2688,7 +2688,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_93.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_93.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2706,7 +2706,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
+                                                            <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>                 
                                                         <span class="badge-skew">New</span>
@@ -2715,7 +2715,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_94.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_94.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2733,7 +2733,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
+                                                            <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2743,7 +2743,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_95.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_95.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2761,7 +2761,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2771,7 +2771,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_96.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_96.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2789,7 +2789,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                            <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2799,7 +2799,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_97.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_97.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2817,7 +2817,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Panasonic Cordless Phone System, Expandable</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2827,7 +2827,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_98.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_98.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2845,7 +2845,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2855,7 +2855,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_99.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_99.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2873,7 +2873,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2883,7 +2883,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_100.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_100.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2901,7 +2901,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2911,7 +2911,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_101.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_101.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2929,7 +2929,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2943,7 +2943,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2961,7 +2961,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -2971,7 +2971,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_93.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_93.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -2989,7 +2989,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
+                                                            <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>                 
                                                         <span class="badge-skew">New</span>
@@ -2998,7 +2998,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_94.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_94.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3016,7 +3016,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
+                                                            <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3026,7 +3026,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_95.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_95.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3044,7 +3044,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3054,7 +3054,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_96.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_96.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3072,7 +3072,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                            <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3082,7 +3082,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_97.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_97.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3100,7 +3100,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Panasonic Cordless Phone System, Expandable</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3110,7 +3110,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_98.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_98.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3128,7 +3128,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3138,7 +3138,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_99.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_99.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3156,7 +3156,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3166,7 +3166,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_100.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_100.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3184,7 +3184,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3194,7 +3194,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_101.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_101.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3212,7 +3212,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3226,7 +3226,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3244,7 +3244,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3254,7 +3254,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_93.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_93.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3272,7 +3272,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
+                                                            <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>                 
                                                         <span class="badge-skew">New</span>
@@ -3281,7 +3281,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_94.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_94.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3299,7 +3299,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
+                                                            <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3309,7 +3309,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_95.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_95.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3327,7 +3327,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3337,7 +3337,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_96.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_96.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3355,7 +3355,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                            <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3365,7 +3365,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_97.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_97.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3383,7 +3383,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Panasonic Cordless Phone System, Expandable</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3393,7 +3393,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_98.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_98.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3411,7 +3411,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3421,7 +3421,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_99.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_99.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3439,7 +3439,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3449,7 +3449,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_100.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_100.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3467,7 +3467,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3477,7 +3477,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_101.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_101.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3495,7 +3495,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3509,7 +3509,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_74.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_74.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3527,7 +3527,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3537,7 +3537,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_93.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_93.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3555,7 +3555,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
+                                                            <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit,</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>                 
                                                         <span class="badge-skew">New</span>
@@ -3564,7 +3564,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_94.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_94.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3582,7 +3582,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
+                                                            <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable Laundry</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3592,7 +3592,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_95.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_95.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3610,7 +3610,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3620,7 +3620,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_96.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_96.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3638,7 +3638,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                            <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3648,7 +3648,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_97.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_97.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3666,7 +3666,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Panasonic Cordless Phone System, Expandable</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3676,7 +3676,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_98.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_98.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3694,7 +3694,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD, 32 GB</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3704,7 +3704,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_99.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_99.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3722,7 +3722,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                            <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3732,7 +3732,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_100.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_100.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3750,7 +3750,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3760,7 +3760,7 @@
                                                 <div class="col-1-of-5 mt-30">
                                                     <div class="product__item style-3">
                                                         <div class="product__img text-center pos-rel">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_101.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_101.png" alt=""></a>
                                                             <ul class="product__action style-2 ul_li">
                                                                 <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                 <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3778,7 +3778,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="product__title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
+                                                            <h2 class="product__title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide Angle</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         </div>
                                                         
@@ -3810,12 +3810,12 @@
                                                 <div class="tab-content" id="fc-myTabContent">
                                                     <div class="tab-pane fade show active" id="fc-home" role="tabpanel" aria-labelledby="fc-home-tab">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_102.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_102.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                     <div class="tab-pane fade" id="fc-profile" role="tabpanel" aria-labelledby="fc-profile-tab">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_103.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_103.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3850,12 +3850,12 @@
                                                 <div class="tab-content" id="fc-myTabContent2">
                                                     <div class="tab-pane fade show active" id="fc-home2" role="tabpanel" aria-labelledby="fc-home-tab2">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_103.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_103.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                     <div class="tab-pane fade" id="fc-profile2" role="tabpanel" aria-labelledby="fc-profile-tab2">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_104.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_104.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3890,12 +3890,12 @@
                                                 <div class="tab-content" id="fc-myTabContent3">
                                                     <div class="tab-pane fade show active" id="fc-home3" role="tabpanel" aria-labelledby="fc-home-tab3">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_104.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_104.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                     <div class="tab-pane fade" id="fc-profile3" role="tabpanel" aria-labelledby="fc-profile-tab3">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_105.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_105.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3930,12 +3930,12 @@
                                                 <div class="tab-content" id="fc-myTabContent4">
                                                     <div class="tab-pane fade show active" id="fc-home4" role="tabpanel" aria-labelledby="fc-home-tab4">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_105.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_105.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                     <div class="tab-pane fade" id="fc-profile4" role="tabpanel" aria-labelledby="fc-profile-tab4">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_106.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_106.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3970,12 +3970,12 @@
                                                 <div class="tab-content" id="fc-myTabContent5">
                                                     <div class="tab-pane fade show active" id="fc-home5" role="tabpanel" aria-labelledby="fc-home-tab5">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_106.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_106.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                     <div class="tab-pane fade" id="fc-profile5" role="tabpanel" aria-labelledby="fc-profile-tab5">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_107.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_107.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4010,12 +4010,12 @@
                                                 <div class="tab-content" id="fc-myTabContent6">
                                                     <div class="tab-pane fade show active" id="fc-home6" role="tabpanel" aria-labelledby="fc-home-tab6">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_107.png" alt=""></a>
+                                                            <a href="#!"><img src="assets/img/product/img_107.png" alt=""></a>
                                                         </div>
                                                     </div>
                                                     <div class="tab-pane fade" id="fc-profile6" role="tabpanel" aria-labelledby="fc-profile-tab6">
                                                         <div class="product-cat__img">
-                                                            <a href="shop-single.php"><img src="assets/img/product/img_103.png" alt=""></a>                
+                                                            <a href="#!"><img src="assets/img/product/img_103.png" alt=""></a>                
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4053,7 +4053,7 @@
                                     <span>Get Save 30% off</span>
                                     <h3 class="text-capitalize">general motors buick <br> sonic engine</h3>
                                     <span class="price">$ 18560.99</span>
-                                    <a class="thm-btn mt-40" href="shop.php">
+                                    <a class="thm-btn mt-40" href="#!">
                                         <span class="btn-wrap"> 
                                             <span>Shop Now</span>
                                             <span>Shop Now</span>
@@ -4118,37 +4118,37 @@
                                             <div class="tx-widget__product-single">
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_109.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_109.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">JBL Tune 510BT Wireless On-Ear Head</a></h3>
+                                                        <h3><a href="#!">JBL Tune 510BT Wireless On-Ear Head</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_110.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_110.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific</a></h3>
+                                                        <h3><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_111.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_111.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Air Purifier for Home Allergies Pets Hair</a></h3>
+                                                        <h3><a href="#!">Air Purifier for Home Allergies Pets Hair</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_112.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_112.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">TP-Link Smart WiFi Router Wireless Interne</a></h3>
+                                                        <h3><a href="#!">TP-Link Smart WiFi Router Wireless Interne</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -4156,37 +4156,37 @@
                                             <div class="tx-widget__product-single">
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_109.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_109.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">USDA Choice Angus Beef Stew Meat</a></h3>
+                                                        <h3><a href="#!">USDA Choice Angus Beef Stew Meat</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_110.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_110.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">USDA Choice Angus Beef Stew Meat</a></h3>
+                                                        <h3><a href="#!">USDA Choice Angus Beef Stew Meat</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_111.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_111.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">USDA Choice Angus Beef Stew Meat</a></h3>
+                                                        <h3><a href="#!">USDA Choice Angus Beef Stew Meat</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_112.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_112.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">USDA Choice Angus Beef Stew Meat</a></h3>
+                                                        <h3><a href="#!">USDA Choice Angus Beef Stew Meat</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -4199,37 +4199,37 @@
                                             <div class="tx-widget__product-single">
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_113.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_113.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">ByronStatics Portable Radio AM FM, Vintage</a></h3>
+                                                        <h3><a href="#!">ByronStatics Portable Radio AM FM, Vintage</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_114.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_114.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h3>
+                                                        <h3><a href="#!">Panasonic Cordless Phone System, Expandable</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_115.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_115.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1</a></h3>
+                                                        <h3><a href="#!">Beats Flex Wireless Earbuds – Apple W1</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_116.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_116.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h3>
+                                                        <h3><a href="#!">Panasonic Cordless Phone System, Expandable</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -4237,37 +4237,37 @@
                                             <div class="tx-widget__product-single">
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_113.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_113.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">ByronStatics Portable Radio AM FM, Vintage</a></h3>
+                                                        <h3><a href="#!">ByronStatics Portable Radio AM FM, Vintage</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_114.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_114.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h3>
+                                                        <h3><a href="#!">Panasonic Cordless Phone System, Expandable</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_115.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_115.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1</a></h3>
+                                                        <h3><a href="#!">Beats Flex Wireless Earbuds – Apple W1</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_116.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_116.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h3>
+                                                        <h3><a href="#!">Panasonic Cordless Phone System, Expandable</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -4280,37 +4280,37 @@
                                             <div class="tx-widget__product-single">
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_117.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_117.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                        <h3><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_118.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_118.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Amazon Basics 2 Slice, Extra-Wide Slot</a></h3>
+                                                        <h3><a href="#!">Amazon Basics 2 Slice, Extra-Wide Slot</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_119.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_119.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">SMORFIT Smart Watch for Men/Women, Fitness</a></h3>
+                                                        <h3><a href="#!">SMORFIT Smart Watch for Men/Women, Fitness</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_120.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_120.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Home Security Camera, Baby Camera,1080P</a></h3>
+                                                        <h3><a href="#!">Home Security Camera, Baby Camera,1080P</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -4318,37 +4318,37 @@
                                             <div class="tx-widget__product-single">
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_117.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_117.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
+                                                        <h3><a href="#!">SAMSUNG Galaxy Tab A7 Lite 8.7″ 32GB Android</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_118.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_118.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Amazon Basics 2 Slice, Extra-Wide Slot</a></h3>
+                                                        <h3><a href="#!">Amazon Basics 2 Slice, Extra-Wide Slot</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_119.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_119.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">SMORFIT Smart Watch for Men/Women, Fitness</a></h3>
+                                                        <h3><a href="#!">SMORFIT Smart Watch for Men/Women, Fitness</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
                                                 <div class="tx-widget__product-item style-2 tx-product ul_li">
                                                     <div class="thumb">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_120.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_120.png" alt=""></a>
                                                     </div>
                                                     <div class="content">
-                                                        <h3><a href="shop-single.php">Home Security Camera, Baby Camera,1080P</a></h3>
+                                                        <h3><a href="#!">Home Security Camera, Baby Camera,1080P</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -4364,7 +4364,7 @@
                                     <span>Get Save 30% off</span>
                                     <h3 class="text-capitalize">Cloud Cam, <br> Security Camera</h3>
                                     <span class="price">$ 18560.99</span>
-                                    <a class="thm-btn mt-40" href="shop.php">
+                                    <a class="thm-btn mt-40" href="#!">
                                         <span class="btn-wrap"> 
                                             <span>Shop Now</span>
                                             <span>Shop Now</span>

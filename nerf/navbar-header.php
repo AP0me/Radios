@@ -112,7 +112,7 @@
           </ul>
         </div>
         <div class="login-sign-btn">
-          <a class="thm-btn" href="account.php">
+          <a class="thm-btn" href="#!">
             <span class="btn-wrap">
               <span>Login / Sign Up</span>
               <span>Login / Sign Up</span>

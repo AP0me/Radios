@@ -59,7 +59,7 @@
                             <div class="blog-post-wrap mt-50">
                                 <article class="tx-post-item tx-post format-standard">
                                     <div class="post-thumb">
-                                        <a href="news-single.php"><img src="assets/img/news/img_07.jpg" alt=""></a>
+                                        <a href="#!"><img src="assets/img/news/img_07.jpg" alt=""></a>
                                         <div class="post-date">
                                             24 <br> <span>Feb</span>
                                         </div>
@@ -71,7 +71,7 @@
                                             <li><a href="#!">Brave</a></li>
                                             <li><a href="#!">Brave</a></li>
                                         </ul>
-                                        <h2 class="post-title border-effect"><a href="news-single.php">Finally found a work computer setup That’s practically perf</a></h2>
+                                        <h2 class="post-title border-effect"><a href="#!">Finally found a work computer setup That’s practically perf</a></h2>
                                         <ul class="post-meta ul_li mt-10">
                                             <li>
                                                 <div class="post-meta__author ul_li">
@@ -90,7 +90,7 @@
                                 </article>
                                 <article class="tx-post-item tx-post format-standard mt-50">
                                     <div class="post-thumb">
-                                        <a href="news-single.php"><img src="assets/img/news/img_08.jpg" alt=""></a>
+                                        <a href="#!"><img src="assets/img/news/img_08.jpg" alt=""></a>
                                         <div class="post-date">
                                             24 <br> <span>Feb</span>
                                         </div>
@@ -102,7 +102,7 @@
                                             <li><a href="#!">Brave</a></li>
                                             <li><a href="#!">Brave</a></li>
                                         </ul>
-                                        <h2 class="post-title border-effect"><a href="news-single.php">Hoya Vision USA: Using Inbound Blogs and Emails for</a></h2>
+                                        <h2 class="post-title border-effect"><a href="#!">Hoya Vision USA: Using Inbound Blogs and Emails for</a></h2>
                                         <ul class="post-meta ul_li mt-10">
                                             <li>
                                                 <div class="post-meta__author ul_li">
@@ -123,7 +123,7 @@
                                 </article>
                                 <article class="tx-post-item tx-post format-video mt-50">
                                     <div class="post-thumb">
-                                        <a href="news-single.php"><img src="assets/img/news/img_09.jpg" alt=""></a>
+                                        <a href="#!"><img src="assets/img/news/img_09.jpg" alt=""></a>
                                         <div class="post-date">
                                             24 <br> <span>Feb</span>
                                         </div>
@@ -136,7 +136,7 @@
                                             <li><a href="#!">Brave</a></li>
                                             <li><a href="#!">Brave</a></li>
                                         </ul>
-                                        <h2 class="post-title border-effect"><a href="news-single.php">Finally found a work computer setup That’s practically perf</a></h2>
+                                        <h2 class="post-title border-effect"><a href="#!">Finally found a work computer setup That’s practically perf</a></h2>
                                         <ul class="post-meta ul_li mt-10">
                                             <li>
                                                 <div class="post-meta__author ul_li">
@@ -157,7 +157,7 @@
                                 </article>
                                 <article class="tx-post-item tx-post format-standard mt-50">
                                     <div class="post-thumb">
-                                        <a href="news-single.php"><img src="assets/img/news/img_10.jpg" alt=""></a>
+                                        <a href="#!"><img src="assets/img/news/img_10.jpg" alt=""></a>
                                         <div class="post-date">
                                             24 <br> <span>Feb</span>
                                         </div>
@@ -169,7 +169,7 @@
                                             <li><a href="#!">Brave</a></li>
                                             <li><a href="#!">Brave</a></li>
                                         </ul>
-                                        <h2 class="post-title border-effect"><a href="news-single.php">To engage prospects, we targeted eye professionals with</a></h2>
+                                        <h2 class="post-title border-effect"><a href="#!">To engage prospects, we targeted eye professionals with</a></h2>
                                         <ul class="post-meta ul_li mt-10">
                                             <li>
                                                 <div class="post-meta__author ul_li">
@@ -262,7 +262,7 @@
                                             <div class="post-item">
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_11.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_11.jpg" alt=""></a>
                                                         <span class="post-number">01</span>
                                                     </div>
                                                     <div class="post-content">
@@ -272,7 +272,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_12.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_12.jpg" alt=""></a>
                                                         <span class="post-number">02</span>
                                                     </div>
                                                     <div class="post-content">
@@ -282,7 +282,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_13.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_13.jpg" alt=""></a>
                                                         <span class="post-number">03</span>
                                                     </div>
                                                     <div class="post-content">
@@ -293,7 +293,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_14.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_14.jpg" alt=""></a>
                                                         <span class="post-number">04</span>
                                                     </div>
                                                     <div class="post-content">
@@ -305,7 +305,7 @@
                                             <div class="post-item">
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_11.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_11.jpg" alt=""></a>
                                                         <span class="post-number">01</span>
                                                     </div>
                                                     <div class="post-content">
@@ -315,7 +315,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_12.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_12.jpg" alt=""></a>
                                                         <span class="post-number">02</span>
                                                     </div>
                                                     <div class="post-content">
@@ -325,7 +325,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_13.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_13.jpg" alt=""></a>
                                                         <span class="post-number">03</span>
                                                     </div>
                                                     <div class="post-content">
@@ -336,7 +336,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_14.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_14.jpg" alt=""></a>
                                                         <span class="post-number">04</span>
                                                     </div>
                                                     <div class="post-content">
@@ -348,7 +348,7 @@
                                             <div class="post-item">
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_11.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_11.jpg" alt=""></a>
                                                         <span class="post-number">01</span>
                                                     </div>
                                                     <div class="post-content">
@@ -358,7 +358,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_12.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_12.jpg" alt=""></a>
                                                         <span class="post-number">02</span>
                                                     </div>
                                                     <div class="post-content">
@@ -368,7 +368,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_13.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_13.jpg" alt=""></a>
                                                         <span class="post-number">03</span>
                                                     </div>
                                                     <div class="post-content">
@@ -379,7 +379,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_14.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_14.jpg" alt=""></a>
                                                         <span class="post-number">04</span>
                                                     </div>
                                                     <div class="post-content">

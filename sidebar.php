@@ -62,13 +62,13 @@
       <span>$87.00</span>
     </div>
     <ul class="btns_group ul_li">
-      <li><a href="cart.php" class="thm-btn">
+      <li><a href="#!" class="thm-btn">
         <span class="btn-wrap">
           <span>View Cart</span>
           <span>View Cart</span>
         </span>
       </a></li>
-      <li><a href="checkout.php" class="thm-btn thm-btn__black">
+      <li><a href="#!" class="thm-btn thm-btn__black">
         <span class="btn-wrap">
           <span>Checkout</span>
           <span>Checkout</span>
@@ -90,38 +90,38 @@
       <li class="dropdown"><a href="index.php">Home</a>
         <ul class="sub-menu">
           <li><a href="index.php">Home One</a></li>
-          <li><a href="home-2.php">Home Two</a></li>
-          <li><a href="home-3.php">Home Three</a></li>
+          <li><a href="#!">Home Two</a></li>
+          <li><a href="#!">Home Three</a></li>
         </ul>
       </li>
       <li class="dropdown">
         <a href="#">Shop</a>
         <ul class="sub-menu">
-          <li><a href="shop.php">Shop Default</a></li>
-          <li><a href="shop-left-sidebar.php">Shop Left Sidebar</a></li>
-          <li><a href="shop-single.php">Shop Single</a></li>
-          <li><a href="cart.php">Shop Cart</a></li>
-          <li><a href="checkout.php">Shop Checkout</a></li>
-          <li><a href="account.php">Account</a></li>
+          <li><a href="#!">Shop Default</a></li>
+          <li><a href="#!">Shop Left Sidebar</a></li>
+          <li><a href="#!">Shop Single</a></li>
+          <li><a href="#!">Shop Cart</a></li>
+          <li><a href="#!">Shop Checkout</a></li>
+          <li><a href="#!">Account</a></li>
         </ul>
       </li>
-      <li><a href="shop.php">Accesories</a></li>
+      <li><a href="#!">Accesories</a></li>
       <li class="dropdown">
         <a href="#!">Blog</a>
         <ul class="sub-menu">
-          <li><a href="news.php">Blog</a></li>
-          <li><a href="news-single.php">Blog Details</a></li>
+          <li><a href="#!">Blog</a></li>
+          <li><a href="#!">Blog Details</a></li>
         </ul>
       </li>
       <li class="dropdown">
         <a href="#!">Pages</a>
         <ul class="submenu">
-          <li><a href="about.php">About Us</a></li>
-          <li><a href="about.php">Account</a></li>
-          <li><a href="404.php">404</a></li>
+          <li><a href="#!">About Us</a></li>
+          <li><a href="#!">Account</a></li>
+          <li><a href="#!">404</a></li>
         </ul>
       </li>
-      <li><a href="contact.php">Contact</a></li>
+      <li><a href="#!">Contact</a></li>
     </ul>
   </nav>
   <!-- side-mobile-menu end -->

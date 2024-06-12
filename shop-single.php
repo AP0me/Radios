@@ -333,7 +333,7 @@
                                     <ul class="products clearfix">
                                         <li class="product">
                                             <div class="product-holder">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_165.png" alt></a>
+                                                <a href="#!"><img src="assets/img/product/img_165.png" alt></a>
                                                 <ul class="product__action">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -351,7 +351,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h2>
+                                                <h2 class="product__title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h2>
                                                 <span class="product__available">Available: <span>334</span></span>
                                                 <div class="product__progress progress color-primary">
                                                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -361,7 +361,7 @@
                                         </li>
                                         <li class="product">
                                             <div class="product-holder">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_166.png" alt></a>
+                                                <a href="#!"><img src="assets/img/product/img_166.png" alt></a>
                                                 <ul class="product__action">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -379,7 +379,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
+                                                <h2 class="product__title"><a href="#!">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
                                                 <span class="product__available">Available: <span>334</span></span>
                                                 <div class="product__progress progress color-primary">
                                                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -390,7 +390,7 @@
                                         </li>
                                         <li class="product">
                                             <div class="product-holder">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_167.png" alt></a>
+                                                <a href="#!"><img src="assets/img/product/img_167.png" alt></a>
                                                 <ul class="product__action">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -408,7 +408,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD USB</a></h2>
+                                                <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable HDD USB</a></h2>
                                                 <span class="product__available">Available: <span>334</span></span>
                                                 <div class="product__progress progress color-primary">
                                                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -418,7 +418,7 @@
                                         </li>
                                         <li class="product">
                                             <div class="product-holder">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_168.png" alt></a>
+                                                <a href="#!"><img src="assets/img/product/img_168.png" alt></a>
                                                 <ul class="product__action">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -436,7 +436,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden</a></h2>
+                                                <h2 class="product__title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden</a></h2>
                                                 <span class="product__available">Available: <span>334</span></span>
                                                 <div class="product__progress progress color-primary">
                                                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>

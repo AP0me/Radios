@@ -43,7 +43,7 @@
                                 <a href="index.php"><span>Home</span></a>
                             </li>
                             <li class="radiosbcrumb-item radiosbcrumb-begin">
-                                <a href="news.php"><span>News</span></a>
+                                <a href="#!"><span>News</span></a>
                             </li>
                             <li class="radiosbcrumb-item radiosbcrumb-end">
                                 <span>Budget Issues Force The Our To Be Cancelled</span>
@@ -227,7 +227,7 @@
                                                 </a>
                                                 <div class="post-nav__item tx-post ul_li">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_20.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_20.jpg" alt=""></a>
                                                     </div>
                                                     <div class="post-content">
                                                         <h2 class="post-title border-effect-2"><a href="#!">Severance Nightmare Visi
@@ -252,7 +252,7 @@
                                                 </a>
                                                 <div class="post-nav__item tx-post ul_li">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_21.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_21.jpg" alt=""></a>
                                                     </div>
                                                     <div class="post-content">
                                                         <h2 class="post-title border-effect-2"><a href="#!">Finally found a work comput setup</a></h2>
@@ -443,7 +443,7 @@
                                             <div class="post-item">
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_11.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_11.jpg" alt=""></a>
                                                         <span class="post-number">01</span>
                                                     </div>
                                                     <div class="post-content">
@@ -453,7 +453,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_12.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_12.jpg" alt=""></a>
                                                         <span class="post-number">02</span>
                                                     </div>
                                                     <div class="post-content">
@@ -463,7 +463,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_13.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_13.jpg" alt=""></a>
                                                         <span class="post-number">03</span>
                                                     </div>
                                                     <div class="post-content">
@@ -474,7 +474,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_14.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_14.jpg" alt=""></a>
                                                         <span class="post-number">04</span>
                                                     </div>
                                                     <div class="post-content">
@@ -486,7 +486,7 @@
                                             <div class="post-item">
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_11.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_11.jpg" alt=""></a>
                                                         <span class="post-number">01</span>
                                                     </div>
                                                     <div class="post-content">
@@ -496,7 +496,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_12.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_12.jpg" alt=""></a>
                                                         <span class="post-number">02</span>
                                                     </div>
                                                     <div class="post-content">
@@ -506,7 +506,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_13.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_13.jpg" alt=""></a>
                                                         <span class="post-number">03</span>
                                                     </div>
                                                     <div class="post-content">
@@ -517,7 +517,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_14.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_14.jpg" alt=""></a>
                                                         <span class="post-number">04</span>
                                                     </div>
                                                     <div class="post-content">
@@ -529,7 +529,7 @@
                                             <div class="post-item">
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_11.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_11.jpg" alt=""></a>
                                                         <span class="post-number">01</span>
                                                     </div>
                                                     <div class="post-content">
@@ -539,7 +539,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_12.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_12.jpg" alt=""></a>
                                                         <span class="post-number">02</span>
                                                     </div>
                                                     <div class="post-content">
@@ -549,7 +549,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_13.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_13.jpg" alt=""></a>
                                                         <span class="post-number">03</span>
                                                     </div>
                                                     <div class="post-content">
@@ -560,7 +560,7 @@
                                                 </div>
                                                 <div class="ul_li tx-post">
                                                     <div class="post-thumb">
-                                                        <a href="news-single.php"><img src="assets/img/news/img_14.jpg" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/news/img_14.jpg" alt=""></a>
                                                         <span class="post-number">04</span>
                                                     </div>
                                                     <div class="post-content">

@@ -82,7 +82,7 @@
                                 <p class="content">Sumptuous, filling, and temptingly healthy.</p>
                                 <h4 class="price">From  <span>$99.00</span></h4>
                                 <div class="banner__btn mt-30">
-                                    <a class="thm-btn" href="shop.php">
+                                    <a class="thm-btn" href="#!">
                                         <span class="btn-wrap"> 
                                             <span>Shop Now</span>
                                             <span>Shop Now</span>
@@ -180,7 +180,7 @@
                                     <span class="offer">Get 30% off</span>
                                     <h3>Smart Phone</h3>
                                     <h4 class="price">Starting <span>560.99</span></h4>
-                                    <a href="shop.php">Buy Now</a>
+                                    <a href="#!">Buy Now</a>
                                 </div>
                             </div>
                         </div>
@@ -194,7 +194,7 @@
                                     <span class="offer">Get 30% off</span>
                                     <h3>Montblanc Watch</h3>
                                     <h4 class="price">Starting <span>560.99</span></h4>
-                                    <a href="shop.php">Buy Now</a>
+                                    <a href="#!">Buy Now</a>
                                 </div>
                             </div>
                         </div>
@@ -208,7 +208,7 @@
                                     <span class="offer">Get 30% off</span>
                                     <h3>SAMSUNG Galaxy</h3>
                                     <h4 class="price">Starting <span>560.99</span></h4>
-                                    <a href="shop.php">Buy Now</a>
+                                    <a href="#!">Buy Now</a>
                                 </div>
                             </div>
                         </div>
@@ -222,7 +222,7 @@
                                     <span class="offer">Get 30% off</span>
                                     <h3>Montblanc Watch</h3>
                                     <h4 class="price">Starting <span>560.99</span></h4>
-                                    <a href="shop.php">Buy Now</a>
+                                    <a href="#!">Buy Now</a>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_125.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_125.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -277,7 +277,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -285,7 +285,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_126.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_126.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -303,7 +303,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -311,7 +311,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_127.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_127.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -329,7 +329,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                        <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -337,7 +337,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_128.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_128.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -355,7 +355,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -367,7 +367,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_125.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_125.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -385,7 +385,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -393,7 +393,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_126.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_126.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -411,7 +411,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -419,7 +419,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_127.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_127.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -437,7 +437,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                        <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -445,7 +445,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_128.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_128.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -463,7 +463,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -475,7 +475,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_125.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_125.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -493,7 +493,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -501,7 +501,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_126.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_126.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -519,7 +519,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -527,7 +527,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_127.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_127.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -545,7 +545,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                        <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -553,7 +553,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_128.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_128.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -571,7 +571,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -583,7 +583,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_125.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_125.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -601,7 +601,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Beats Flex Wireless Earbuds – Apple W1 Headphone</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -609,7 +609,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_126.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_126.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -627,7 +627,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -635,7 +635,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_127.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_127.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -653,7 +653,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                        <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -661,7 +661,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_128.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_128.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -679,7 +679,7 @@
                                                             </ul>
                                                             <span>(126)</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">BLACK+DECKER BPWH84W Washer Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">BLACK+DECKER BPWH84W Washer Portable</a></h2>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                     </div>
                                                 </div>
@@ -744,7 +744,7 @@
                                                     </h2>
                                                     <div class="countdown countdown__black ul_li mt-15" data-countdown="2024/08/28"></div>
                                                     <div class="product__btn mt-15">
-                                                        <a class="thm-btn text-capitalize" href="shop.php">
+                                                        <a class="thm-btn text-capitalize" href="#!">
                                                             <span class="btn-wrap"> 
                                                                 <span>All Items</span>
                                                                 <span>All Items</span>
@@ -757,7 +757,7 @@
                                                     <div class="col-lg-4 col-md-6">
                                                         <div class="product__item style-2">
                                                             <div class="product__img text-center pos-rel">
-                                                                <a href="shop-single.php"><img src="assets/img/product/img_132.png" alt=""></a>
+                                                                <a href="#!"><img src="assets/img/product/img_132.png" alt=""></a>
                                                                 <ul class="product__action style-2 ul_li">
                                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -775,7 +775,7 @@
                                                                     </ul>
                                                                     <span>(126) Review</span>
                                                                 </div>
-                                                                <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
+                                                                <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
                                                                 <span class="product__available">Available: <span>334</span></span>
                                                                 <div class="product__progress progress color-primary">
                                                                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -787,7 +787,7 @@
                                                     <div class="col-lg-4 col-md-6">
                                                         <div class="product__item style-2">
                                                             <div class="product__img text-center pos-rel">
-                                                                <a href="shop-single.php"><img src="assets/img/product/img_133.png" alt=""></a>
+                                                                <a href="#!"><img src="assets/img/product/img_133.png" alt=""></a>
                                                                 <ul class="product__action style-2 ul_li">
                                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -805,7 +805,7 @@
                                                                     </ul>
                                                                     <span>(126) Review</span>
                                                                 </div>
-                                                                <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
+                                                                <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p</a></h2>
                                                                 <span class="product__available">Available: <span>334</span></span>
                                                                 <div class="product__progress progress color-primary">
                                                                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -818,7 +818,7 @@
                                                     <div class="col-lg-4 col-md-6">
                                                         <div class="product__item style-2">
                                                             <div class="product__img text-center pos-rel">
-                                                                <a href="shop-single.php"><img src="assets/img/product/img_134.png" alt=""></a>
+                                                                <a href="#!"><img src="assets/img/product/img_134.png" alt=""></a>
                                                                 <ul class="product__action style-2 ul_li">
                                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -836,7 +836,7 @@
                                                                     </ul>
                                                                     <span>(126) Review</span>
                                                                 </div>
-                                                                <h2 class="product__title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema</a></h2>
+                                                                <h2 class="product__title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema</a></h2>
                                                                 <span class="product__available">Available: <span>334</span></span>
                                                                 <div class="product__progress progress color-primary">
                                                                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -860,46 +860,46 @@
                                         <div class="tx-widget__product-single">
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_135.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_135.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h3>
+                                                    <h3><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_136.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_136.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Portable 2TB External Hard Drive</a></h3>
+                                                    <h3><a href="#!">Portable 2TB External Hard Drive</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_137.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_137.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds</a></h3>
+                                                    <h3><a href="#!">Skullcandy Dime True In-Ear Earbuds</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_138.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_138.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Freestanding Air Conditioner</a></h3>
+                                                    <h3><a href="#!">Freestanding Air Conditioner</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_135.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_135.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Galaxy S20 FE 5G Cell Phone, Factory</a></h3>
+                                                    <h3><a href="#!">Galaxy S20 FE 5G Cell Phone, Factory</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
@@ -907,46 +907,46 @@
                                         <div class="tx-widget__product-single">
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_135.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_135.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h3>
+                                                    <h3><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_136.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_136.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Portable 2TB External Hard Drive</a></h3>
+                                                    <h3><a href="#!">Portable 2TB External Hard Drive</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_137.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_137.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds</a></h3>
+                                                    <h3><a href="#!">Skullcandy Dime True In-Ear Earbuds</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_138.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_138.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Freestanding Air Conditioner</a></h3>
+                                                    <h3><a href="#!">Freestanding Air Conditioner</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
                                             <div class="tx-widget__product-item tx-product ul_li">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_135.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_135.png" alt=""></a>
                                                 </div>
                                                 <div class="content">
-                                                    <h3><a href="shop-single.php">Galaxy S20 FE 5G Cell Phone, Factory</a></h3>
+                                                    <h3><a href="#!">Galaxy S20 FE 5G Cell Phone, Factory</a></h3>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                             </div>
@@ -1120,7 +1120,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_139.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_139.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1138,7 +1138,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1150,7 +1150,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_140.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_140.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1168,7 +1168,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1181,7 +1181,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_141.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_141.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1199,7 +1199,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1211,7 +1211,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_142.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_142.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1229,7 +1229,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1245,7 +1245,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_139.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_139.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1263,7 +1263,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1275,7 +1275,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_140.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_140.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1293,7 +1293,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1306,7 +1306,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_141.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_141.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1324,7 +1324,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1336,7 +1336,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_142.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_142.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1354,7 +1354,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1370,7 +1370,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_139.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_139.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1388,7 +1388,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1400,7 +1400,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_140.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_140.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1418,7 +1418,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1431,7 +1431,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_141.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_141.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1449,7 +1449,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1461,7 +1461,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_142.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_142.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1479,7 +1479,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1495,7 +1495,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_139.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_139.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1513,7 +1513,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1525,7 +1525,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_140.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_140.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1543,7 +1543,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1556,7 +1556,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_141.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_141.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1574,7 +1574,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1586,7 +1586,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_142.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_142.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1604,7 +1604,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1620,7 +1620,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_139.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_139.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1638,7 +1638,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Fire HD 10 tablet, 10.1″, 1080p Full HD</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1650,7 +1650,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_140.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_140.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1668,7 +1668,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1681,7 +1681,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_141.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_141.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1699,7 +1699,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1711,7 +1711,7 @@
                                             <div class="col-lg-3 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_142.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_142.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -1729,7 +1729,7 @@
                                                             </ul>
                                                             <span>(126) Review</span>
                                                         </div>
-                                                        <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                        <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                         <span class="product__available">Available: <span>334</span></span>
                                                         <div class="product__progress progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1793,7 +1793,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_146.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_146.png" alt=""></a>
                                                     
                                                 </div>
                                                 <div class="product__content">
@@ -1807,7 +1807,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1827,7 +1827,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_147.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_147.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -1840,140 +1840,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                                <span class="product__badge"><span>New</span></span>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_148.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_149.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_150.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_151.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -1994,7 +1861,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_148.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2007,7 +1874,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2027,7 +1894,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_149.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2040,7 +1907,140 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_150.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_151.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <span class="product__badge"><span>New</span></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2064,7 +2064,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_146.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_146.png" alt=""></a>
                                                     
                                                 </div>
                                                 <div class="product__content">
@@ -2078,7 +2078,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2098,7 +2098,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_147.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_147.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2111,140 +2111,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                                <span class="product__badge"><span>New</span></span>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_148.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_149.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_150.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_151.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2265,7 +2132,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_148.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2278,7 +2145,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2298,7 +2165,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_149.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2311,7 +2178,140 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_150.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_151.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <span class="product__badge"><span>New</span></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2335,7 +2335,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_146.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_146.png" alt=""></a>
                                                     
                                                 </div>
                                                 <div class="product__content">
@@ -2349,7 +2349,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2369,7 +2369,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_147.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_147.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2382,140 +2382,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                                <span class="product__badge"><span>New</span></span>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_148.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_149.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_150.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_151.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2536,7 +2403,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_148.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2549,7 +2416,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2569,7 +2436,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_149.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2582,7 +2449,140 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_150.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_151.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <span class="product__badge"><span>New</span></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2606,7 +2606,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_146.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_146.png" alt=""></a>
                                                     
                                                 </div>
                                                 <div class="product__content">
@@ -2620,7 +2620,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2640,7 +2640,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_147.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_147.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2653,140 +2653,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                                <span class="product__badge"><span>New</span></span>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_148.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_149.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_150.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_151.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2807,7 +2674,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_148.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2820,7 +2687,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2840,7 +2707,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_149.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2853,7 +2720,140 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_150.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_151.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <span class="product__badge"><span>New</span></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2877,7 +2877,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_146.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_146.png" alt=""></a>
                                                     
                                                 </div>
                                                 <div class="product__content">
@@ -2891,7 +2891,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Apple iPhone 12 Pro, 128GB, Pacific Blue</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -2911,7 +2911,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_147.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_147.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -2924,140 +2924,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                                <span class="product__badge"><span>New</span></span>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_148.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_149.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_150.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
-                                                    <span class="product__available">Available: <span>334</span></span>
-                                                    <div class="product__progress progress color-primary">
-                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                                </div>
-                                                <div class="product__action-wrap">
-                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
-                                                    <ul class="product__action2">
-                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-md-6">
-                                            <div class="product__item style-2">
-                                                <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_151.png" alt=""></a>
-                                                </div>
-                                                <div class="product__content">
-                                                    <div class="product__review ul_li">
-                                                        <ul class="rating-star ul_li mr-10">
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="fas fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                            <li><i class="far fa-star"></i></li>
-                                                        </ul>
-                                                        <span>(126) Review</span>
-                                                    </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -3078,7 +2945,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_148.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -3091,7 +2958,7 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -3111,7 +2978,7 @@
                                         <div class="col-lg-3 col-md-6">
                                             <div class="product__item style-2">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_149.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <div class="product__review ul_li">
@@ -3124,7 +2991,140 @@
                                                         </ul>
                                                         <span>(126) Review</span>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_150.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_151.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <span class="product__badge"><span>New</span></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_152.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                    <span class="product__available">Available: <span>334</span></span>
+                                                    <div class="product__progress progress color-primary">
+                                                        <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                                </div>
+                                                <div class="product__action-wrap">
+                                                    <span class="plus-icon"><i class="fal fa-plus"></i></span>
+                                                    <ul class="product__action2">
+                                                        <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <div class="product__item style-2">
+                                                <div class="product__img text-center pos-rel">
+                                                    <a href="#!"><img src="assets/img/product/img_153.png" alt=""></a>
+                                                </div>
+                                                <div class="product__content">
+                                                    <div class="product__review ul_li">
+                                                        <ul class="rating-star ul_li mr-10">
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="fas fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                            <li><i class="far fa-star"></i></li>
+                                                        </ul>
+                                                        <span>(126) Review</span>
+                                                    </div>
+                                                    <h2 class="product__title"><a href="#!">Tab M10 Plus, FHD Android Tablet, Processor</a></h2>
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress color-primary">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -3193,7 +3193,7 @@
                                             <div class="product__slider tx-arrow">
                                                 <div class="product__slider-item">
                                                     <div class="product__slider-img">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_156.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_156.png" alt=""></a>
                                                         <div class="offer">
                                                             25% <br>
                                                             <span>off</span>
@@ -3207,7 +3207,7 @@
                                                             <li><i class="fas fa-star"></i></li>
                                                             <li><i class="far fa-star"></i></li>
                                                         </ul>
-                                                        <h3><a href="shop-single.php">Washing Machine</a></h3>
+                                                        <h3><a href="#!">Washing Machine</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         <div class="product__progress color-primary progress mt-15">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -3220,7 +3220,7 @@
                                                 </div>
                                                 <div class="product__slider-item">
                                                     <div class="product__slider-img">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_156.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_156.png" alt=""></a>
                                                         <div class="offer">
                                                             25% <br>
                                                             <span>off</span>
@@ -3234,7 +3234,7 @@
                                                             <li><i class="fas fa-star"></i></li>
                                                             <li><i class="far fa-star"></i></li>
                                                         </ul>
-                                                        <h3><a href="shop-single.php">Washing Machine</a></h3>
+                                                        <h3><a href="#!">Washing Machine</a></h3>
                                                         <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                         <div class="product__progress color-primary progress mt-15">
                                                             <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -3272,7 +3272,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_157.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_157.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3282,7 +3282,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Amazon Basics 2</a></h3>
+                                                                    <h3 class="title"><a href="#!">Amazon Basics 2</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3294,7 +3294,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_158.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_158.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3304,7 +3304,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Extra-Wide Slot</a></h3>
+                                                                    <h3 class="title"><a href="#!">Extra-Wide Slot</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3317,7 +3317,7 @@
                                                     <div class="col-lg-4 col-md-6">
                                                         <div class="feature-product__single2 mt-15 tx-product">
                                                             <div class="image text-center pos-rel">
-                                                                <a href="shop-single.php"><img src="assets/img/product/img_159.png" alt=""></a>
+                                                                <a href="#!"><img src="assets/img/product/img_159.png" alt=""></a>
                                                                 <ul class="product__action style-2 br-5 ul_li">
                                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3334,7 +3334,7 @@
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
                                                                 </div>
-                                                                <h2 class="title"><a href="shop-single.php">Home Security Camera</a></h2>
+                                                                <h2 class="title"><a href="#!">Home Security Camera</a></h2>
                                                                 <h4 class="product__price mb-10"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 <p class="fs-13">lorem Ipsum is simply printing dummy
                                                                     text ry.ullam  Ut enim</p>
@@ -3345,7 +3345,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_160.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_160.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3355,7 +3355,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Baby Camera,1080P</a></h3>
+                                                                    <h3 class="title"><a href="#!">Baby Camera,1080P</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3367,7 +3367,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_161.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_161.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3377,7 +3377,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Washing Machine</a></h3>
+                                                                    <h3 class="title"><a href="#!">Washing Machine</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3395,7 +3395,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_157.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_157.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3405,7 +3405,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Amazon Basics 2</a></h3>
+                                                                    <h3 class="title"><a href="#!">Amazon Basics 2</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3417,7 +3417,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_158.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_158.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3427,7 +3427,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Extra-Wide Slot</a></h3>
+                                                                    <h3 class="title"><a href="#!">Extra-Wide Slot</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3440,7 +3440,7 @@
                                                     <div class="col-lg-4 col-md-6">
                                                         <div class="feature-product__single2 mt-15 tx-product">
                                                             <div class="image text-center pos-rel">
-                                                                <a href="shop-single.php"><img src="assets/img/product/img_159.png" alt=""></a>
+                                                                <a href="#!"><img src="assets/img/product/img_159.png" alt=""></a>
                                                                 <ul class="product__action style-2 br-5 ul_li">
                                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3457,7 +3457,7 @@
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
                                                                 </div>
-                                                                <h2 class="title"><a href="shop-single.php">Home Security Camera</a></h2>
+                                                                <h2 class="title"><a href="#!">Home Security Camera</a></h2>
                                                                 <h4 class="product__price mb-10"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 <p class="fs-13">lorem Ipsum is simply printing dummy
                                                                     text ry.ullam  Ut enim</p>
@@ -3468,7 +3468,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_160.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_160.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3478,7 +3478,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Baby Camera,1080P</a></h3>
+                                                                    <h3 class="title"><a href="#!">Baby Camera,1080P</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3490,7 +3490,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_161.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_161.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3500,7 +3500,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Washing Machine</a></h3>
+                                                                    <h3 class="title"><a href="#!">Washing Machine</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3518,7 +3518,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_157.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_157.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3528,7 +3528,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Amazon Basics 2</a></h3>
+                                                                    <h3 class="title"><a href="#!">Amazon Basics 2</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3540,7 +3540,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_158.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_158.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3550,7 +3550,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Extra-Wide Slot</a></h3>
+                                                                    <h3 class="title"><a href="#!">Extra-Wide Slot</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3563,7 +3563,7 @@
                                                     <div class="col-lg-4 col-md-6">
                                                         <div class="feature-product__single2 mt-15 tx-product">
                                                             <div class="image text-center pos-rel">
-                                                                <a href="shop-single.php"><img src="assets/img/product/img_159.png" alt=""></a>
+                                                                <a href="#!"><img src="assets/img/product/img_159.png" alt=""></a>
                                                                 <ul class="product__action style-2 br-5 ul_li">
                                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                                     <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3580,7 +3580,7 @@
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
                                                                 </div>
-                                                                <h2 class="title"><a href="shop-single.php">Home Security Camera</a></h2>
+                                                                <h2 class="title"><a href="#!">Home Security Camera</a></h2>
                                                                 <h4 class="product__price mb-10"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 <p class="fs-13">lorem Ipsum is simply printing dummy
                                                                     text ry.ullam  Ut enim</p>
@@ -3591,7 +3591,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_160.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_160.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3601,7 +3601,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Baby Camera,1080P</a></h3>
+                                                                    <h3 class="title"><a href="#!">Baby Camera,1080P</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3613,7 +3613,7 @@
                                                         <div class="feature-product__single mt-15">
                                                             <div class="feature-product__product ul_li">
                                                                 <div class="image">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_161.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_161.png" alt=""></a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <ul class="rating-star ul_li">
@@ -3623,7 +3623,7 @@
                                                                         <li><i class="fas fa-star"></i></li>
                                                                         <li><i class="far fa-star"></i></li>
                                                                     </ul>
-                                                                    <h3 class="title"><a href="shop-single.php">Washing Machine</a></h3>
+                                                                    <h3 class="title"><a href="#!">Washing Machine</a></h3>
                                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                                 </div>
                                                             </div>
@@ -3675,9 +3675,9 @@
                                                     </div>
                                                     <span class="news__meta-date"><i class="far fa-calendar-alt"></i>Sep 8, 2021</span>
                                                 </div>
-                                                <h2 class="news__title border-effect mb-10"><a href="news-single.php">Honor Earth Day Fourth Annual</a></h2>
+                                                <h2 class="news__title border-effect mb-10"><a href="#!">Honor Earth Day Fourth Annual</a></h2>
                                                 <p>Namkand sodales vel online best prices an unknown printer took a galley of</p>
-                                                <a class="news__btn" href="news-single.php">Read more</a>
+                                                <a class="news__btn" href="#!">Read more</a>
                                             </div>
                                             <span class="news__cat color-2">#Tech</span>
                                         </div>
@@ -3695,9 +3695,9 @@
                                                     </div>
                                                     <span class="news__meta-date"><i class="far fa-calendar-alt"></i>Sep 8, 2021</span>
                                                 </div>
-                                                <h2 class="news__title border-effect mb-10"><a href="news-single.php">Providing Filtered Water For The</a></h2>
+                                                <h2 class="news__title border-effect mb-10"><a href="#!">Providing Filtered Water For The</a></h2>
                                                 <p>Namkand sodales vel online best prices an unknown printer took a galley of</p>
-                                                <a class="news__btn" href="news-single.php">Read more</a>
+                                                <a class="news__btn" href="#!">Read more</a>
                                             </div>
                                             <span class="news__cat color-3">#Tech</span>
                                         </div>
@@ -3715,9 +3715,9 @@
                                                     </div>
                                                     <span class="news__meta-date"><i class="far fa-calendar-alt"></i>Sep 8, 2021</span>
                                                 </div>
-                                                <h2 class="news__title border-effect mb-10"><a href="news-single.php">How To Teach Children To Dress</a></h2>
+                                                <h2 class="news__title border-effect mb-10"><a href="#!">How To Teach Children To Dress</a></h2>
                                                 <p>Namkand sodales vel online best prices an unknown printer took a galley of</p>
-                                                <a class="news__btn" href="news-single.php">Read more</a>
+                                                <a class="news__btn" href="#!">Read more</a>
                                             </div>
                                             <span class="news__cat color-4">#Tech</span>
                                         </div>
@@ -3735,9 +3735,9 @@
                                                     </div>
                                                     <span class="news__meta-date"><i class="far fa-calendar-alt"></i>Sep 8, 2021</span>
                                                 </div>
-                                                <h2 class="news__title border-effect mb-10"><a href="news-single.php">My Top Shopbop Fall Finds For Their</a></h2>
+                                                <h2 class="news__title border-effect mb-10"><a href="#!">My Top Shopbop Fall Finds For Their</a></h2>
                                                 <p>Namkand sodales vel online best prices an unknown printer took a galley of</p>
-                                                <a class="news__btn" href="news-single.php">Read more</a>
+                                                <a class="news__btn" href="#!">Read more</a>
                                             </div>
                                             <span class="news__cat">#Tech</span>
                                         </div>
@@ -3751,7 +3751,7 @@
                                     <div class="add-banner__content text-center">
                                         <span>Get Save 30% off</span>
                                         <h3 class="text-capitalize fw-500">Cloud Cam, <br>Security Camera</h3>
-                                        <a class="thm-btn mt-20" href="shop.php">
+                                        <a class="thm-btn mt-20" href="#!">
                                             <span class="btn-wrap"> 
                                                 <span>Shop Now</span>
                                                 <span>Shop Now</span>
@@ -3846,7 +3846,7 @@
                                     <span>Expert mechanic</span>
                                     <h2>Repair Car Perfectly <br> From Expertist</h2>
                                     <p>Sumptuous, filling, and temptingly healthy.</p>
-                                    <a href="contact.php">Make enquiry <i class="far fa-long-arrow-right"></i></a>
+                                    <a href="#!">Make enquiry <i class="far fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="thumb">
                                     <img src="assets/img/product/img_162.png" alt="">
@@ -3859,7 +3859,7 @@
                                     <span>Expert mechanic</span>
                                     <h2>Repair Car Perfectly <br> From Expertist</h2>
                                     <p>Sumptuous, filling, and temptingly healthy.</p>
-                                    <a href="contact.php">Make enquiry <i class="far fa-long-arrow-right"></i></a>
+                                    <a href="#!">Make enquiry <i class="far fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="thumb">
                                     <img src="assets/img/product/img_163.png" alt="">

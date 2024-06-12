@@ -290,7 +290,7 @@
                                 <div class="tab-product__slide tx-arrow">
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_01.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_01.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -303,7 +303,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h3>
+                                            <h3 class="title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -315,7 +315,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -328,7 +328,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing Blender</a></h3>
+                                            <h3 class="title"><a href="#!">Ninja Compact Smoothie & Food Processing Blender</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -340,7 +340,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -353,7 +353,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -365,7 +365,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_04.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_04.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -378,7 +378,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
+                                            <h3 class="title"><a href="#!">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -390,7 +390,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_05.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_05.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -403,7 +403,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
+                                            <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -415,7 +415,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_06.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_06.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -428,7 +428,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner Control</a></h3>
+                                            <h3 class="title"><a href="#!">Amazon Basics Window Air Conditioner Control</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -440,7 +440,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -453,7 +453,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
+                                            <h3 class="title"><a href="#!">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -465,7 +465,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -478,7 +478,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -494,7 +494,7 @@
                                 <div class="tab-product__slide tx-arrow">
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_01.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_01.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -507,7 +507,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h3>
+                                            <h3 class="title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -519,7 +519,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -532,7 +532,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing Blender</a></h3>
+                                            <h3 class="title"><a href="#!">Ninja Compact Smoothie & Food Processing Blender</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -544,7 +544,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -557,7 +557,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -569,7 +569,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_04.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_04.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -582,7 +582,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
+                                            <h3 class="title"><a href="#!">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -594,7 +594,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_05.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_05.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -607,7 +607,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
+                                            <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -619,7 +619,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_06.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_06.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -632,7 +632,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner Control</a></h3>
+                                            <h3 class="title"><a href="#!">Amazon Basics Window Air Conditioner Control</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -644,7 +644,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -657,7 +657,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
+                                            <h3 class="title"><a href="#!">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -669,7 +669,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -682,7 +682,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -698,7 +698,7 @@
                                 <div class="tab-product__slide tx-arrow">
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_01.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_01.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -711,7 +711,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h3>
+                                            <h3 class="title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -723,7 +723,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -736,7 +736,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing Blender</a></h3>
+                                            <h3 class="title"><a href="#!">Ninja Compact Smoothie & Food Processing Blender</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -748,7 +748,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -761,7 +761,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -773,7 +773,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_04.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_04.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -786,7 +786,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
+                                            <h3 class="title"><a href="#!">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -798,7 +798,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_05.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_05.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -811,7 +811,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
+                                            <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -823,7 +823,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_06.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_06.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -836,7 +836,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner Control</a></h3>
+                                            <h3 class="title"><a href="#!">Amazon Basics Window Air Conditioner Control</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -848,7 +848,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -861,7 +861,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
+                                            <h3 class="title"><a href="#!">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -873,7 +873,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -886,7 +886,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -902,7 +902,7 @@
                                 <div class="tab-product__slide tx-arrow">
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_01.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_01.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -915,7 +915,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h3>
+                                            <h3 class="title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -927,7 +927,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -940,7 +940,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing Blender</a></h3>
+                                            <h3 class="title"><a href="#!">Ninja Compact Smoothie & Food Processing Blender</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -952,7 +952,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -965,7 +965,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -977,7 +977,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_04.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_04.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -990,7 +990,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
+                                            <h3 class="title"><a href="#!">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1002,7 +1002,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_05.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_05.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1015,7 +1015,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
+                                            <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1027,7 +1027,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_06.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_06.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1040,7 +1040,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner Control</a></h3>
+                                            <h3 class="title"><a href="#!">Amazon Basics Window Air Conditioner Control</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1052,7 +1052,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1065,7 +1065,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
+                                            <h3 class="title"><a href="#!">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1077,7 +1077,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1090,7 +1090,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1106,7 +1106,7 @@
                                 <div class="tab-product__slide tx-arrow">
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_01.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_01.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1119,7 +1119,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Portable 2TB External Hard Drive Portable HDD</a></h3>
+                                            <h3 class="title"><a href="#!">Portable 2TB External Hard Drive Portable HDD</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1131,7 +1131,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1144,7 +1144,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing Blender</a></h3>
+                                            <h3 class="title"><a href="#!">Ninja Compact Smoothie & Food Processing Blender</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1156,7 +1156,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1169,7 +1169,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1181,7 +1181,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_04.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_04.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1194,7 +1194,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
+                                            <h3 class="title"><a href="#!">Galaxy S20 FE 5G Cell Phone, Factory Unlocked</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1206,7 +1206,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_05.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_05.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1219,7 +1219,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
+                                            <h3 class="title"><a href="#!">Rokinon Xeen CF 16mm T2.6 Pro Cinema Wide</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1231,7 +1231,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_06.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_06.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1244,7 +1244,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner Control</a></h3>
+                                            <h3 class="title"><a href="#!">Amazon Basics Window Air Conditioner Control</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1256,7 +1256,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_02.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_02.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1269,7 +1269,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
+                                            <h3 class="title"><a href="#!">JBL Tune 510BT Wireless On-Ear Head phones Blue</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1281,7 +1281,7 @@
                                     </div>
                                     <div class="tab-product__item tx-product text-center">
                                         <div class="thumb">
-                                            <a href="shop-single.php"><img src="assets/img/product/img_03.png" alt=""></a>
+                                            <a href="#!"><img src="assets/img/product/img_03.png" alt=""></a>
                                         </div>
                                         <div class="content">
                                             <div class="product__review ul_li_center">
@@ -1294,7 +1294,7 @@
                                                 </ul>
                                                 <span>(126)</span>
                                             </div>
-                                            <h3 class="title"><a href="shop-single.php">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
+                                            <h3 class="title"><a href="#!">Skullcandy Dime True In-Ear Earbuds – Golden Red</a></h3>
                                             <span class="price">( $28.52 - <span class="old-price">$30.00</span> )</span>
                                         </div>
                                         <ul class="product__action">
@@ -1341,7 +1341,7 @@
                                     <div class="rd-product__slide-item">
                                         <div class="product__item">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_07.png" alt=""></a>
+                                                <a href="#!"><img src="assets/img/product/img_07.png" alt=""></a>
                                             </div>
                                             <div class="product__content">
                                                 <div class="product__review ul_li_center">
@@ -1354,7 +1354,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Ninja Compact Smoothie & Food Processing Blender</a></h2>
+                                                <h2 class="product__title"><a href="#!">Ninja Compact Smoothie & Food Processing Blender</a></h2>
                                                 <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                             </div>
                                             <ul class="product__action">
@@ -1366,7 +1366,7 @@
                                         </div>
                                         <div class="product__item">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_08.png" alt=""></a>
+                                                <a href="#!"><img src="assets/img/product/img_08.png" alt=""></a>
                                             </div>
                                             <div class="product__content">
                                                 <div class="product__review ul_li_center">
@@ -1379,59 +1379,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
-                                                <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                            </div>
-                                            <ul class="product__action">
-                                                <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                            </ul>
-                                            <span class="badge-skew">New</span>
-                                        </div>
-                                    </div>
-                                    <div class="rd-product__slide-item">
-                                        <div class="product__item">
-                                            <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_09.png" alt=""></a>
-                                            </div>
-                                            <div class="product__content">
-                                                <div class="product__review ul_li_center">
-                                                    <ul class="rating-star ul_li mr-10">
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="far fa-star"></i></li>
-                                                        <li><i class="far fa-star"></i></li>
-                                                    </ul>
-                                                    <span>(126) Review</span>
-                                                </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
-                                                <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                            </div>
-                                            <ul class="product__action">
-                                                <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                            </ul>
-                                            <span class="badge-skew">New</span>
-                                        </div>
-                                        <div class="product__item">
-                                            <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_10.png" alt=""></a>
-                                            </div>
-                                            <div class="product__content">
-                                                <div class="product__review ul_li_center">
-                                                    <ul class="rating-star ul_li mr-10">
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="far fa-star"></i></li>
-                                                        <li><i class="far fa-star"></i></li>
-                                                    </ul>
-                                                    <span>(126) Review</span>
-                                                </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt. Rice & Grain</a></h2>
+                                                <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
                                                 <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                             </div>
                                             <ul class="product__action">
@@ -1445,7 +1393,7 @@
                                     <div class="rd-product__slide-item">
                                         <div class="product__item">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_11.png" alt=""></a>
+                                                <a href="#!"><img src="assets/img/product/img_09.png" alt=""></a>
                                             </div>
                                             <div class="product__content">
                                                 <div class="product__review ul_li_center">
@@ -1458,7 +1406,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory Unlocked</a></h2>
+                                                <h2 class="product__title"><a href="#!">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
                                                 <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                             </div>
                                             <ul class="product__action">
@@ -1470,7 +1418,7 @@
                                         </div>
                                         <div class="product__item">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_12.png" alt=""></a>
+                                                <a href="#!"><img src="assets/img/product/img_10.png" alt=""></a>
                                             </div>
                                             <div class="product__content">
                                                 <div class="product__review ul_li_center">
@@ -1483,59 +1431,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
-                                                <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                            </div>
-                                            <ul class="product__action">
-                                                <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                            </ul>
-                                            <span class="badge-skew">New</span>
-                                        </div>
-                                    </div>
-                                    <div class="rd-product__slide-item">
-                                        <div class="product__item">
-                                            <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_13.png" alt=""></a>
-                                            </div>
-                                            <div class="product__content">
-                                                <div class="product__review ul_li_center">
-                                                    <ul class="rating-star ul_li mr-10">
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="far fa-star"></i></li>
-                                                        <li><i class="far fa-star"></i></li>
-                                                    </ul>
-                                                    <span>(126) Review</span>
-                                                </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
-                                                <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                                            </div>
-                                            <ul class="product__action">
-                                                <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
-                                                <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
-                                                <li><a href="#!"><i class="far fa-heart"></i></a></li>
-                                            </ul>
-                                            <span class="badge-skew">New</span>
-                                        </div>
-                                        <div class="product__item">
-                                            <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_14.png" alt=""></a>
-                                            </div>
-                                            <div class="product__content">
-                                                <div class="product__review ul_li_center">
-                                                    <ul class="rating-star ul_li mr-10">
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="far fa-star"></i></li>
-                                                        <li><i class="far fa-star"></i></li>
-                                                    </ul>
-                                                    <span>(126) Review</span>
-                                                </div>
-                                                <h2 class="product__title"><a href="shop-single.php">Panasonic Cordless Phone System, Expandable</a></h2>
+                                                <h2 class="product__title"><a href="#!">Aroma Housewares 4-Cups 1Qt. Rice & Grain</a></h2>
                                                 <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                             </div>
                                             <ul class="product__action">
@@ -1549,7 +1445,7 @@
                                     <div class="rd-product__slide-item">
                                         <div class="product__item">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_08.png" alt=""></a>
+                                                <a href="#!"><img src="assets/img/product/img_11.png" alt=""></a>
                                             </div>
                                             <div class="product__content">
                                                 <div class="product__review ul_li_center">
@@ -1562,7 +1458,7 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory Unlocked</a></h2>
                                                 <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                             </div>
                                             <ul class="product__action">
@@ -1574,7 +1470,7 @@
                                         </div>
                                         <div class="product__item">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.php"><img src="assets/img/product/img_09.png" alt=""></a>
+                                                <a href="#!"><img src="assets/img/product/img_12.png" alt=""></a>
                                             </div>
                                             <div class="product__content">
                                                 <div class="product__review ul_li_center">
@@ -1587,7 +1483,111 @@
                                                     </ul>
                                                     <span>(126) Review</span>
                                                 </div>
-                                                <h2 class="product__title"><a href="shop-single.php">BenQ HT2050A 1080P Home Theater Projector Lumens</a></h2>
+                                                <h2 class="product__title"><a href="#!">SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory</a></h2>
+                                                <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                            </div>
+                                            <ul class="product__action">
+                                                <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                            </ul>
+                                            <span class="badge-skew">New</span>
+                                        </div>
+                                    </div>
+                                    <div class="rd-product__slide-item">
+                                        <div class="product__item">
+                                            <div class="product__img text-center pos-rel">
+                                                <a href="#!"><img src="assets/img/product/img_13.png" alt=""></a>
+                                            </div>
+                                            <div class="product__content">
+                                                <div class="product__review ul_li_center">
+                                                    <ul class="rating-star ul_li mr-10">
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="far fa-star"></i></li>
+                                                        <li><i class="far fa-star"></i></li>
+                                                    </ul>
+                                                    <span>(126) Review</span>
+                                                </div>
+                                                <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED Monitor</a></h2>
+                                                <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                            </div>
+                                            <ul class="product__action">
+                                                <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                            </ul>
+                                            <span class="badge-skew">New</span>
+                                        </div>
+                                        <div class="product__item">
+                                            <div class="product__img text-center pos-rel">
+                                                <a href="#!"><img src="assets/img/product/img_14.png" alt=""></a>
+                                            </div>
+                                            <div class="product__content">
+                                                <div class="product__review ul_li_center">
+                                                    <ul class="rating-star ul_li mr-10">
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="far fa-star"></i></li>
+                                                        <li><i class="far fa-star"></i></li>
+                                                    </ul>
+                                                    <span>(126) Review</span>
+                                                </div>
+                                                <h2 class="product__title"><a href="#!">Panasonic Cordless Phone System, Expandable</a></h2>
+                                                <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                            </div>
+                                            <ul class="product__action">
+                                                <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                            </ul>
+                                            <span class="badge-skew">New</span>
+                                        </div>
+                                    </div>
+                                    <div class="rd-product__slide-item">
+                                        <div class="product__item">
+                                            <div class="product__img text-center pos-rel">
+                                                <a href="#!"><img src="assets/img/product/img_08.png" alt=""></a>
+                                            </div>
+                                            <div class="product__content">
+                                                <div class="product__review ul_li_center">
+                                                    <ul class="rating-star ul_li mr-10">
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="far fa-star"></i></li>
+                                                        <li><i class="far fa-star"></i></li>
+                                                    </ul>
+                                                    <span>(126) Review</span>
+                                                </div>
+                                                <h2 class="product__title"><a href="#!">CLB 510BT Wireless Headphones with Purebass</a></h2>
+                                                <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
+                                            </div>
+                                            <ul class="product__action">
+                                                <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
+                                                <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
+                                                <li><a href="#!"><i class="far fa-heart"></i></a></li>
+                                            </ul>
+                                            <span class="badge-skew">New</span>
+                                        </div>
+                                        <div class="product__item">
+                                            <div class="product__img text-center pos-rel">
+                                                <a href="#!"><img src="assets/img/product/img_09.png" alt=""></a>
+                                            </div>
+                                            <div class="product__content">
+                                                <div class="product__review ul_li_center">
+                                                    <ul class="rating-star ul_li mr-10">
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="far fa-star"></i></li>
+                                                        <li><i class="far fa-star"></i></li>
+                                                    </ul>
+                                                    <span>(126) Review</span>
+                                                </div>
+                                                <h2 class="product__title"><a href="#!">BenQ HT2050A 1080P Home Theater Projector Lumens</a></h2>
                                                 <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                             </div>
                                             <ul class="product__action">
@@ -1637,14 +1637,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_15.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_15.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Chromebook Flip Laptop, 14″ Full HD</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Chromebook Flip Laptop, 14″ Full HD</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1658,14 +1658,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_16.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_16.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1679,14 +1679,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_17.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_17.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1700,14 +1700,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_18.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_18.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1754,7 +1754,7 @@
                                             <div class="product__progress progress h-10 color-primary">
                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
-                                            <h2 class="title"><a href="shop-single.php">Amazon Cloud Cam Security</a></h2>
+                                            <h2 class="title"><a href="#!">Amazon Cloud Cam Security</a></h2>
                                             <div class="product__review ul_li">
                                                 <ul class="rating-star ul_li mr-10">
                                                     <li><i class="fas fa-star"></i></li>
@@ -1793,14 +1793,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_23.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_23.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
+                                                    <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1814,14 +1814,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_24.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_24.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1835,14 +1835,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_25.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_25.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1856,14 +1856,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_26.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_26.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1885,14 +1885,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_15.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_15.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Chromebook Flip Laptop, 14″ Full HD</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Chromebook Flip Laptop, 14″ Full HD</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1906,14 +1906,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_16.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_16.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1927,14 +1927,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_17.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_17.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -1948,14 +1948,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_18.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_18.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2002,7 +2002,7 @@
                                             <div class="product__progress progress h-10 color-primary">
                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
-                                            <h2 class="title"><a href="shop-single.php">Amazon Cloud Cam Security</a></h2>
+                                            <h2 class="title"><a href="#!">Amazon Cloud Cam Security</a></h2>
                                             <div class="product__review ul_li">
                                                 <ul class="rating-star ul_li mr-10">
                                                     <li><i class="fas fa-star"></i></li>
@@ -2042,14 +2042,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_23.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_23.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
+                                                    <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2063,14 +2063,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_24.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_24.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2084,14 +2084,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_25.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_25.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2105,14 +2105,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_26.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_26.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2134,14 +2134,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_15.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_15.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Chromebook Flip Laptop, 14″ Full HD</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Chromebook Flip Laptop, 14″ Full HD</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2155,14 +2155,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_16.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_16.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2176,14 +2176,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_17.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_17.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2197,14 +2197,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_18.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_18.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2251,7 +2251,7 @@
                                             <div class="product__progress progress h-10 color-primary">
                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
-                                            <h2 class="title"><a href="shop-single.php">Amazon Cloud Cam Security</a></h2>
+                                            <h2 class="title"><a href="#!">Amazon Cloud Cam Security</a></h2>
                                             <div class="product__review ul_li">
                                                 <ul class="rating-star ul_li mr-10">
                                                     <li><i class="fas fa-star"></i></li>
@@ -2291,14 +2291,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_23.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_23.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
+                                                    <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2312,14 +2312,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_24.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_24.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2333,14 +2333,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_25.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_25.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2354,14 +2354,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_26.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_26.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2383,14 +2383,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_15.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_15.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Chromebook Flip Laptop, 14″ Full HD</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Chromebook Flip Laptop, 14″ Full HD</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2404,14 +2404,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_16.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_16.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2425,14 +2425,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_17.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_17.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2446,14 +2446,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_18.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_18.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2500,7 +2500,7 @@
                                             <div class="product__progress progress h-10 color-primary">
                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
-                                            <h2 class="title"><a href="shop-single.php">Amazon Cloud Cam Security</a></h2>
+                                            <h2 class="title"><a href="#!">Amazon Cloud Cam Security</a></h2>
                                             <div class="product__review ul_li">
                                                 <ul class="rating-star ul_li mr-10">
                                                     <li><i class="fas fa-star"></i></li>
@@ -2540,14 +2540,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_23.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_23.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
+                                                    <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2561,14 +2561,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_24.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_24.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2582,14 +2582,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_25.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_25.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2603,14 +2603,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_26.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_26.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2632,14 +2632,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_15.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_15.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Chromebook Flip Laptop, 14″ Full HD</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Chromebook Flip Laptop, 14″ Full HD</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2653,14 +2653,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_16.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_16.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Aroma Housewares 4-Cups 1Qt. Rice & Grain Cooker</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2674,14 +2674,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_17.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_17.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2695,14 +2695,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_18.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_18.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080)</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2749,7 +2749,7 @@
                                             <div class="product__progress progress h-10 color-primary">
                                                 <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
-                                            <h2 class="title"><a href="shop-single.php">Amazon Cloud Cam Security</a></h2>
+                                            <h2 class="title"><a href="#!">Amazon Cloud Cam Security</a></h2>
                                             <div class="product__review ul_li">
                                                 <ul class="rating-star ul_li mr-10">
                                                     <li><i class="fas fa-star"></i></li>
@@ -2789,14 +2789,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_23.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_23.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
+                                                    <h2 class="product__title"><a href="#!">DEWALT 20V MAX* XR Oscillating Tool Kit</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2810,14 +2810,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_24.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_24.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Lenovo – Tab P11 Plus – Tablet – 11″ 2K Display</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2831,14 +2831,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product has-border pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_25.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_25.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
+                                                    <h2 class="product__title"><a href="#!">SAMSUNG Galaxy A13 5G Cell Phone, Factory</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2852,14 +2852,14 @@
                                         <div class="col-lg-6 col-md-6 mt-30">
                                             <div class="rd-product__item tx-product pos-rel">
                                                 <div class="product__img text-center pos-rel">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_26.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_26.png" alt=""></a>
                                                 </div>
                                                 <div class="product__content">
                                                     <span class="product__available">Available: <span>334</span></span>
                                                     <div class="product__progress progress">
                                                         <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
-                                                    <h2 class="product__title"><a href="shop-single.php">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
+                                                    <h2 class="product__title"><a href="#!">Sceptre 24″ Professional Thin 75Hz 1080p LED</a></h2>
                                                     <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                 </div>
                                                 <ul class="product__action">
@@ -2906,7 +2906,7 @@
                                             </a>
                                         </div>
                                         <div class="content">
-                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window Air</a></h2>
+                                            <h2 class="title"><a href="#!">Amazon Basics Window Air</a></h2>
                                             <div class="product__review ul_li_center">
                                                 <ul class="rating-star ul_li mr-10">
                                                     <li><i class="fas fa-star"></i></li>
@@ -2928,7 +2928,7 @@
                                             </a>
                                         </div>
                                         <div class="content">
-                                            <h2 class="title"><a href="shop-single.php">Amazon Cloud Cam Security</a></h2>
+                                            <h2 class="title"><a href="#!">Amazon Cloud Cam Security</a></h2>
                                             <div class="product__review ul_li_center">
                                                 <ul class="rating-star ul_li mr-10">
                                                     <li><i class="fas fa-star"></i></li>
@@ -2950,7 +2950,7 @@
                                             </a>
                                         </div>
                                         <div class="content">
-                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window Air</a></h2>
+                                            <h2 class="title"><a href="#!">Amazon Basics Window Air</a></h2>
                                             <div class="product__review ul_li_center">
                                                 <ul class="rating-star ul_li mr-10">
                                                     <li><i class="fas fa-star"></i></li>
@@ -2999,17 +2999,17 @@
                                                         <div class="tab-content" id="mf1-tabContent1">
                                                             <div class="tab-pane fade show active" id="mf1-home1" role="tabpanel" aria-labelledby="mf1-home-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf1-profile1" role="tabpanel" aria-labelledby="mf1-profile-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf1-contact1" role="tabpanel" aria-labelledby="mf1-contact-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3024,7 +3024,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt</a></h2>
+                                                            <h2 class="title"><a href="#!">Aroma Housewares 4-Cups 1Qt</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf1-tab1" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3049,17 +3049,17 @@
                                                         <div class="tab-content" id="mf1-tabContent2">
                                                             <div class="tab-pane fade show active" id="mf1-home2" role="tabpanel" aria-labelledby="mf1-home-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf1-profile2" role="tabpanel" aria-labelledby="mf1-profile-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf1-contact2" role="tabpanel" aria-labelledby="mf1-contact-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3074,7 +3074,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf1-tab2" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3098,7 +3098,7 @@
                                             <div class="col-lg-4">
                                                 <div class="rd-monthly__item tx-product text-center mt-30">
                                                     <div class="image pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_32.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_32.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3134,17 +3134,17 @@
                                                         <div class="tab-content" id="mf1-tabContent3">
                                                             <div class="tab-pane fade show active" id="mf1-home3" role="tabpanel" aria-labelledby="mf1-home-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf1-profile3" role="tabpanel" aria-labelledby="mf1-profile-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf1-contact3" role="tabpanel" aria-labelledby="mf1-contact-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3159,7 +3159,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window  Air Conditioner</a></h2>
+                                                            <h2 class="title"><a href="#!">Amazon Basics Window  Air Conditioner</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf1-tab3" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3184,17 +3184,17 @@
                                                         <div class="tab-content" id="mf1-tabContent4">
                                                             <div class="tab-pane fade show active" id="mf1-home4" role="tabpanel" aria-labelledby="mf1-home-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf1-profile4" role="tabpanel" aria-labelledby="mf1-profile-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf1-contact4" role="tabpanel" aria-labelledby="mf1-contact-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3209,7 +3209,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf1-tab4" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3240,17 +3240,17 @@
                                                         <div class="tab-content" id="mf2-tabContent1">
                                                             <div class="tab-pane fade show active" id="mf2-home1" role="tabpanel" aria-labelledby="mf2-home-tab1">
                                                                 <div class="rd-product__img1">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf2-profile1" role="tabpanel" aria-labelledby="mf2-profile-tab1">
                                                                 <div class="rd-product__img1">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf2-contact1" role="tabpanel" aria-labelledby="mf2-contact-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3265,7 +3265,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt</a></h2>
+                                                            <h2 class="title"><a href="#!">Aroma Housewares 4-Cups 1Qt</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf2-tab1" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3290,17 +3290,17 @@
                                                         <div class="tab-content" id="mf2-tabContent2">
                                                             <div class="tab-pane fade show active" id="mf2-home2" role="tabpanel" aria-labelledby="mf2-home-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf2-profile2" role="tabpanel" aria-labelledby="mf2-profile-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf2-contact2" role="tabpanel" aria-labelledby="mf3-contact-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3315,7 +3315,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf2-tab2" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3339,7 +3339,7 @@
                                             <div class="col-lg-4">
                                                 <div class="rd-monthly__item tx-product text-center mt-30">
                                                     <div class="image pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_32.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_32.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3375,17 +3375,17 @@
                                                         <div class="tab-content" id="mf2-tabContent3">
                                                             <div class="tab-pane fade show active" id="mf2-home3" role="tabpanel" aria-labelledby="mf2-home-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf2-profile3" role="tabpanel" aria-labelledby="mf2-profile-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf2-contact3" role="tabpanel" aria-labelledby="mf2-contact-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3400,7 +3400,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window  Air Conditioner</a></h2>
+                                                            <h2 class="title"><a href="#!">Amazon Basics Window  Air Conditioner</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf2-tab3" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3425,17 +3425,17 @@
                                                         <div class="tab-content" id="mf2-tabContent4">
                                                             <div class="tab-pane fade show active" id="mf2-home4" role="tabpanel" aria-labelledby="mf2-home-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf2-profile4" role="tabpanel" aria-labelledby="mf2-profile-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf2-contact4" role="tabpanel" aria-labelledby="mf2-contact-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3450,7 +3450,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf2-tab4" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3481,17 +3481,17 @@
                                                         <div class="tab-content" id="mf3-tabContent1">
                                                             <div class="tab-pane fade show active" id="mf3-home1" role="tabpanel" aria-labelledby="mf3-home-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf3-profile1" role="tabpanel" aria-labelledby="mf3-profile-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf3-contact1" role="tabpanel" aria-labelledby="mf3-contact-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3506,7 +3506,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt</a></h2>
+                                                            <h2 class="title"><a href="#!">Aroma Housewares 4-Cups 1Qt</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf3-tab1" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3531,17 +3531,17 @@
                                                         <div class="tab-content" id="mf3-tabContent2">
                                                             <div class="tab-pane fade show active" id="mf3-home2" role="tabpanel" aria-labelledby="mf3-home-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf3-profile2" role="tabpanel" aria-labelledby="mf3-profile-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf3-contact2" role="tabpanel" aria-labelledby="mf3-contact-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3556,7 +3556,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf3-tab2" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3580,7 +3580,7 @@
                                             <div class="col-lg-4">
                                                 <div class="rd-monthly__item tx-product text-center mt-30">
                                                     <div class="image pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_32.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_32.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3616,17 +3616,17 @@
                                                         <div class="tab-content" id="mf3-tabContent3">
                                                             <div class="tab-pane fade show active" id="mf3-home3" role="tabpanel" aria-labelledby="mf3-home-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf3-profile3" role="tabpanel" aria-labelledby="mf3-profile-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf3-contact3" role="tabpanel" aria-labelledby="mf3-contact-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3641,7 +3641,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner</a></h2>
+                                                            <h2 class="title"><a href="#!">Amazon Basics Window Air Conditioner</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf3-tab3" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3666,17 +3666,17 @@
                                                         <div class="tab-content" id="mf3-tabContent4">
                                                             <div class="tab-pane fade show active" id="mf3-home4" role="tabpanel" aria-labelledby="mf3-home-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf3-profile4" role="tabpanel" aria-labelledby="mf3-profile-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf3-contact4" role="tabpanel" aria-labelledby="mf3-contact-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3691,7 +3691,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf3-tab4" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3722,17 +3722,17 @@
                                                         <div class="tab-content" id="mf4-tabContent1">
                                                             <div class="tab-pane fade show active" id="mf4-home1" role="tabpanel" aria-labelledby="mf4-home-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf4-profile1" role="tabpanel" aria-labelledby="mf4-profile-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf4-contact1" role="tabpanel" aria-labelledby="mf4-contact-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3747,7 +3747,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Aroma Housewares 4-Cups 1Qt</a></h2>
+                                                            <h2 class="title"><a href="#!">Aroma Housewares 4-Cups 1Qt</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf4-tab1" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3772,17 +3772,17 @@
                                                         <div class="tab-content" id="mf4-tabContent2">
                                                             <div class="tab-pane fade show active" id="mf4-home2" role="tabpanel" aria-labelledby="mf4-home-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf4-profile2" role="tabpanel" aria-labelledby="mf4-profile-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf4-contact2" role="tabpanel" aria-labelledby="mf4-contact-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3797,7 +3797,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf4-tab2" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3821,7 +3821,7 @@
                                             <div class="col-lg-4 col-md-6">
                                                 <div class="rd-monthly__item tx-product text-center mt-30">
                                                     <div class="image pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_32.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_32.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -3857,17 +3857,17 @@
                                                         <div class="tab-content" id="mf4-tabContent3">
                                                             <div class="tab-pane fade show active" id="mf4-home3" role="tabpanel" aria-labelledby="mf4-home-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf4-profile3" role="tabpanel" aria-labelledby="mf4-profile-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf4-contact3" role="tabpanel" aria-labelledby="mf4-contact-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3882,7 +3882,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner</a></h2>
+                                                            <h2 class="title"><a href="#!">Amazon Basics Window Air Conditioner</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf4-tab3" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3907,17 +3907,17 @@
                                                         <div class="tab-content" id="mf4-tabContent4">
                                                             <div class="tab-pane fade show active" id="mf4-home4" role="tabpanel" aria-labelledby="mf4-home-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf4-profile4" role="tabpanel" aria-labelledby="mf4-profile-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf4-contact4" role="tabpanel" aria-labelledby="mf4-contact-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3932,7 +3932,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner</a></h2>
+                                                            <h2 class="title"><a href="#!">Amazon Basics Window Air Conditioner</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf4-tab4" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -3963,17 +3963,17 @@
                                                         <div class="tab-content" id="mf5-tabContent1">
                                                             <div class="tab-pane fade show active" id="mf5-home1" role="tabpanel" aria-labelledby="mf5-home-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf5-profile1" role="tabpanel" aria-labelledby="mf5-profile-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf5-contact1" role="tabpanel" aria-labelledby="mf5-contact-tab1">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_28.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_28.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3988,7 +3988,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner</a></h2>
+                                                            <h2 class="title"><a href="#!">Amazon Basics Window Air Conditioner</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf5-tab1" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -4013,17 +4013,17 @@
                                                         <div class="tab-content" id="mf5-tabContent2">
                                                             <div class="tab-pane fade show active" id="mf5-home2" role="tabpanel" aria-labelledby="mf5-home-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf5-profile2" role="tabpanel" aria-labelledby="mf5-profile-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf5-contact2" role="tabpanel" aria-labelledby="mf5-contact-tab2">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_29.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_29.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -4038,7 +4038,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf5-tab2" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -4062,7 +4062,7 @@
                                             <div class="col-lg-4">
                                                 <div class="rd-monthly__item tx-product text-center mt-30">
                                                     <div class="image pos-rel">
-                                                        <a href="shop-single.php"><img src="assets/img/product/img_32.png" alt=""></a>
+                                                        <a href="#!"><img src="assets/img/product/img_32.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
                                                             <li><a href="#!"><i class="far fa-shopping-basket"></i></a></li>
@@ -4098,17 +4098,17 @@
                                                         <div class="tab-content" id="mf5-tabContent3">
                                                             <div class="tab-pane fade show active" id="mf5-home3" role="tabpanel" aria-labelledby="mf5-home-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf5-profile3" role="tabpanel" aria-labelledby="mf5-profile-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf5-contact3" role="tabpanel" aria-labelledby="mf5-contact-tab3">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_30.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_30.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -4123,7 +4123,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Amazon Basics Window Air Conditioner</a></h2>
+                                                            <h2 class="title"><a href="#!">Amazon Basics Window Air Conditioner</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf5-tab3" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -4148,17 +4148,17 @@
                                                         <div class="tab-content" id="mf5-tabContent4">
                                                             <div class="tab-pane fade show active" id="mf5-home4" role="tabpanel" aria-labelledby="mf5-home-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf5-profile4" role="tabpanel" aria-labelledby="mf5-profile-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                             <div class="tab-pane fade" id="mf5-contact4" role="tabpanel" aria-labelledby="mf5-contact-tab4">
                                                                 <div class="rd-product__img">
-                                                                    <a href="shop-single.php"><img src="assets/img/product/img_31.png" alt=""></a>
+                                                                    <a href="#!"><img src="assets/img/product/img_31.png" alt=""></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -4173,7 +4173,7 @@
                                                                 </ul>
                                                                 <span>(26)</span>
                                                             </div>
-                                                            <h2 class="title"><a href="shop-single.php">Panasonic Cordless Phone System</a></h2>
+                                                            <h2 class="title"><a href="#!">Panasonic Cordless Phone System</a></h2>
                                                             <h4 class="product__price"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
                                                             <ul class="nav mf-nav mt-10" id="mf5-tab4" role="tablist">
                                                                 <li class="nav-item" role="presentation">
@@ -4216,17 +4216,17 @@
                                         <div class="tab-content" id="fc-myTabContent">
                                             <div class="tab-pane fade show active" id="fc-home" role="tabpanel" aria-labelledby="fc-home-tab">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_33.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_33.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-profile" role="tabpanel" aria-labelledby="fc-profile-tab">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_34.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_34.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-contact" role="tabpanel" aria-labelledby="fc-contact-tab">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_35.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_35.png" alt=""></a>                
                                                 </div>
                                             </div>
                                         </div>
@@ -4265,17 +4265,17 @@
                                         <div class="tab-content" id="fc-myTabContent2">
                                             <div class="tab-pane fade show active" id="fc-home2" role="tabpanel" aria-labelledby="fc-home-tab2">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_34.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_34.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-profile2" role="tabpanel" aria-labelledby="fc-profile-tab2">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_35.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_35.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-contact2" role="tabpanel" aria-labelledby="fc-contact-tab2">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_36.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_36.png" alt=""></a>                
                                                 </div>
                                             </div>
                                         </div>
@@ -4316,17 +4316,17 @@
                                         <div class="tab-content" id="fc-myTabContent3">
                                             <div class="tab-pane fade show active" id="fc-home3" role="tabpanel" aria-labelledby="fc-home-tab3">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_35.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_35.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-profile3" role="tabpanel" aria-labelledby="fc-profile-tab3">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_36.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_36.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-contact3" role="tabpanel" aria-labelledby="fc-contact-tab3">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_37.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_37.png" alt=""></a>                
                                                 </div>
                                             </div>
                                         </div>
@@ -4365,17 +4365,17 @@
                                         <div class="tab-content" id="fc-myTabContent4">
                                             <div class="tab-pane fade show active" id="fc-home4" role="tabpanel" aria-labelledby="fc-home-tab4">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_36.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_36.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-profile4" role="tabpanel" aria-labelledby="fc-profile-tab4">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_37.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_37.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-contact4" role="tabpanel" aria-labelledby="fc-contact-tab4">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_38.png" alt=""></a>          
+                                                    <a href="#!"><img src="assets/img/product/img_38.png" alt=""></a>          
                                                 </div>
                                             </div>
                                         </div>
@@ -4416,17 +4416,17 @@
                                         <div class="tab-content" id="fc-myTabContent5">
                                             <div class="tab-pane fade show active" id="fc-home5" role="tabpanel" aria-labelledby="fc-home-tab5">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_37.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_37.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-profile5" role="tabpanel" aria-labelledby="fc-profile-tab5">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_38.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_38.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-contact5" role="tabpanel" aria-labelledby="fc-contact-tab5">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_34.png" alt=""></a>             
+                                                    <a href="#!"><img src="assets/img/product/img_34.png" alt=""></a>             
                                                 </div>
                                             </div>
                                         </div>
@@ -4465,17 +4465,17 @@
                                         <div class="tab-content" id="fc-myTabContent6">
                                             <div class="tab-pane fade show active" id="fc-home6" role="tabpanel" aria-labelledby="fc-home-tab6">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_38.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_38.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-profile6" role="tabpanel" aria-labelledby="fc-profile-tab6">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_35.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_35.png" alt=""></a>                
                                                 </div>
                                             </div>
                                             <div class="tab-pane fade" id="fc-contact6" role="tabpanel" aria-labelledby="fc-contact-tab6">
                                                 <div class="product-cat__img">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_36.png" alt=""></a>                
+                                                    <a href="#!"><img src="assets/img/product/img_36.png" alt=""></a>                
                                                 </div>
                                             </div>
                                         </div>
@@ -4557,7 +4557,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_39.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_39.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4575,7 +4575,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_40.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_40.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4593,7 +4593,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_41.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_41.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4611,7 +4611,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_42.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_42.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4629,7 +4629,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_43.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_43.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4647,7 +4647,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_44.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_44.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4665,7 +4665,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_45.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_45.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4683,7 +4683,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_46.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_46.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4701,7 +4701,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_47.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_47.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4723,7 +4723,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_39.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_39.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4741,7 +4741,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_40.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_40.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4759,7 +4759,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_41.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_41.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4777,7 +4777,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_42.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_42.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4795,7 +4795,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_43.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_43.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4813,7 +4813,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_44.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_44.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4831,7 +4831,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_45.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_45.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4849,7 +4849,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_46.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_46.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4867,7 +4867,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_47.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_47.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4889,7 +4889,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_39.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_39.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4907,7 +4907,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_40.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_40.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4925,7 +4925,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_41.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_41.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4943,7 +4943,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_42.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_42.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4961,7 +4961,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_43.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_43.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4979,7 +4979,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_44.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_44.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -4997,7 +4997,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_45.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_45.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5015,7 +5015,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_46.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_46.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5033,7 +5033,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_47.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_47.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5055,7 +5055,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_39.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_39.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5073,7 +5073,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_40.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_40.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5091,7 +5091,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_41.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_41.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5109,7 +5109,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_42.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_42.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5127,7 +5127,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_43.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_43.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5145,7 +5145,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_44.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_44.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5163,7 +5163,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_45.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_45.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5181,7 +5181,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_46.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_46.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">
@@ -5199,7 +5199,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="recent-product__item tx-product ul_li mt-30">
                                                 <div class="thumb">
-                                                    <a href="shop-single.php"><img src="assets/img/product/img_47.png" alt=""></a>
+                                                    <a href="#!"><img src="assets/img/product/img_47.png" alt=""></a>
                                                 </div>
                                                 <div class="recent-product__content">
                                                     <ul class="rating-star ul_li mr-10">

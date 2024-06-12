@@ -80,7 +80,7 @@
                                             <input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember me </label>
                                     </p>
                                     <p class="lost_password">
-                                        <a href="http://localhost/wp/?page_id=7&#038;lost-password">Lost your password?</a>
+                                        <a href="#!">Lost your password?</a>
                                     </p>
 
                                     <div class="clear"></div>
