@@ -28,8 +28,8 @@
     <?php include("navbar-header.php") ?>
     <!-- header end -->
 
-     <!-- slide-bar start -->
-     <?php include("sidebar.php") ?>
+    <!-- slide-bar start -->
+    <?php include("sidebar.php") ?>
     <!-- slide-bar end -->
 
     <main>
@@ -40,31 +40,8 @@
           <div class="row align-items-center mt-none-30">
             <div class="col-lg-9 mt-30">
               <div class="row align-items-center flex-row-reverse mt-none-30">
-                <div class="col-lg-7 mt-30">
-                  <?php $bigCarusProductCount = 6; ?>
-                  <div class="hero__product">
-                    <div class="hero__product-wrap">
-                      <div class="hero__product-carousel">
-                        <?php
-                          for($i=0; $i<$bigCarusProductCount; $i++){
-                            include("big_carus_product.php");
-                          }
-                        ?>
-                      </div>
-                      <div class="hero__product-carousel-nav">
-                        <?php
-                          for($i=0; $i<$bigCarusProductCount; $i++){
-                            include("big_carus_product_nav.php");
-                          }
-                        ?>
-                      </div>
-                      <span class="hero__product-offer">
-                        <span class="discount">29<span>%</span></span>
-                        <span>off</span>
-                      </span>
-                    </div>
-                  </div>
-                </div>
+                <?php include("./component/sub_index/best-product-carus.php") ?>
+
                 <div class="col-lg-5 mt-30">
                   <div class="hero__content">
                     <span class="subtitle">100% Best Product</span>
@@ -85,94 +62,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6 mt-30">
-              <div class="hot-deal__slide-wrap style-2 bg-white ">
-                <h2 class="section-heading mb-25"><span>Top Product</span></h2>
-                <div class="hot-deal__slide tx-arrow">
-                  <div class="hot-deal__item text-center">
-                    <div class="thumb">
-                      <a href="#!">
-                        <img src="assets/img/product/img_55.png" alt="">
-                      </a>
-                    </div>
-                    <div class="content">
-                      <ul class="rating-star ul_li_center mr-10">
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="far fa-star"></i></li>
-                        <li><i class="far fa-star"></i></li>
-                      </ul>
-                      <h2 class="title mb-15"><a href="#!">Asus 2022 Vivobook</a></h2>
-                      <h4 class="product__price mb-20"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                      <div class="mxw_216 m-auto">
-                        <div class="product__progress progress mb-6 h-8 color-primary">
-                          <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                        <div class="ul_li_between">
-                          <span class="product__available">Available: <span>334</span></span>
-                          <span class="product__available">Sold: <span>180</span></span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="hot-deal__item text-center">
-                    <div class="thumb">
-                      <a href="#!">
-                        <img src="assets/img/product/img_55.png" alt="">
-                      </a>
-                    </div>
-                    <div class="content">
-                      <ul class="rating-star ul_li_center mr-10">
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="far fa-star"></i></li>
-                        <li><i class="far fa-star"></i></li>
-                      </ul>
-                      <h2 class="title mb-15"><a href="#!">Asus 2022 Vivobook</a></h2>
-                      <h4 class="product__price mb-20"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                      <div class="mxw_216 m-auto">
-                        <div class="product__progress progress mb-6 h-8 color-primary">
-                          <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                        <div class="ul_li_between">
-                          <span class="product__available">Available: <span>334</span></span>
-                          <span class="product__available">Sold: <span>180</span></span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="hot-deal__item text-center">
-                    <div class="thumb">
-                      <a href="#!">
-                        <img src="assets/img/product/img_55.png" alt="">
-                      </a>
-                    </div>
-                    <div class="content">
-                      <ul class="rating-star ul_li_center mr-10">
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="fas fa-star"></i></li>
-                        <li><i class="far fa-star"></i></li>
-                        <li><i class="far fa-star"></i></li>
-                      </ul>
-                      <h2 class="title mb-15"><a href="#!">Asus 2022 Vivobook</a></h2>
-                      <h4 class="product__price mb-20"><span class="new">$30.52</span><span class="old">$28.52</span></h4>
-                      <div class="mxw_216 m-auto">
-                        <div class="product__progress progress mb-6 h-8 color-primary">
-                          <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                        <div class="ul_li_between">
-                          <span class="product__available">Available: <span>334</span></span>
-                          <span class="product__available">Sold: <span>180</span></span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            <?php include("./component/sub_index/top-product-carus.php") ?>
           </div>
         </div>
       </div>
